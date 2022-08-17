@@ -1,0 +1,1742 @@
+zip,county,pop
+90011,Los Angeles,111165
+91331,Los Angeles,105458
+90650,Los Angeles,105304
+90201,Los Angeles,101965
+90044,Los Angeles,99443
+92335,San Bernardino,99306
+92336,San Bernardino,98346
+94565,Contra Costa,97671
+90250,Los Angeles,97072
+90805,Los Angeles,95995
+92503,Riverside,95551
+90280,Los Angeles,94642
+91342,Los Angeles,94595
+91710,San Bernardino,91773
+92683,Orange,91105
+92804,Orange,89915
+92154,San Diego,88979
+92704,Orange,88321
+95076,Santa Cruz,86905
+93307,Kern,86832
+92376,San Bernardino,86085
+91744,Los Angeles,85421
+92592,Riverside,84930
+94112,San Francisco,84707
+93033,Ventura,84701
+93722,Fresno,84621
+93727,Fresno,84449
+91911,San Diego,84026
+92126,San Diego,82658
+92345,San Bernardino,82110
+91335,Los Angeles,81824
+92509,Riverside,81383
+91709,San Bernardino,80701
+94544,Alameda,79747
+95035,Santa Clara,79655
+95823,Sacramento,79440
+95630,Sacramento,78159
+93550,Los Angeles,77506
+90706,Los Angeles,77195
+91706,Los Angeles,76930
+93257,Tulare,76519
+92553,Riverside,76102
+94533,Solano,75909
+90255,Los Angeles,75019
+91910,San Diego,74855
+94536,Alameda,74837
+94587,Alameda,74722
+92805,Orange,74478
+93535,Los Angeles,74264
+93274,Tulare,74000
+90003,Los Angeles,73730
+92105,San Diego,73623
+92882,Riverside,73250
+91730,San Bernardino,72407
+94110,San Francisco,72380
+91766,Los Angeles,72348
+93306,Kern,72280
+91402,Los Angeles,72059
+93065,Ventura,71832
+90262,Los Angeles,70536
+93536,Los Angeles,70237
+92021,San Diego,70148
+92880,Riverside,69656
+92563,Riverside,69469
+92703,Orange,69112
+90631,Orange,69064
+95687,Solano,69060
+90026,Los Angeles,68906
+92114,San Diego,68851
+95123,Santa Clara,68766
+92407,San Bernardino,68545
+94558,Napa,68315
+94509,Contra Costa,68166
+90037,Los Angeles,67640
+93230,Kings,67605
+94080,San Mateo,67600
+94538,Alameda,67474
+90022,Los Angeles,67014
+95747,Placer,66931
+91343,Los Angeles,66743
+92801,Orange,66594
+92677,Orange,66314
+95127,Santa Clara,66256
+95624,Sacramento,65948
+94541,Alameda,65928
+95758,Sacramento,65811
+92201,Riverside,65726
+94015,San Mateo,65041
+95020,Santa Clara,64833
+91977,San Diego,64750
+90019,Los Angeles,64534
+93906,Monterey,64348
+92115,San Diego,64343
+94513,Contra Costa,64313
+94806,Contra Costa,64286
+92562,Riverside,64286
+95206,San Joaquin,64250
+92346,San Bernardino,63857
+94501,Alameda,63821
+90042,Los Angeles,63193
+92627,Orange,63161
+90660,Los Angeles,63001
+92404,San Bernardino,62915
+91732,Los Angeles,62905
+91950,San Diego,62859
+90640,Los Angeles,62730
+91770,Los Angeles,62703
+95608,Sacramento,62539
+95112,Santa Clara,62228
+92647,Orange,62199
+94122,San Francisco,62128
+91702,Los Angeles,62066
+95014,Santa Clara,61866
+95111,Santa Clara,61830
+91762,San Bernardino,61718
+93312,Kern,61628
+91761,San Bernardino,61425
+92707,Orange,60831
+92570,Riverside,60686
+90731,Los Angeles,60659
+90004,Los Angeles,60541
+93905,Monterey,60531
+92057,San Diego,60414
+92324,San Bernardino,59972
+92504,Riverside,59896
+95051,Santa Clara,59851
+90001,Los Angeles,59832
+92020,San Diego,59743
+95355,Stanislaus,59621
+90006,Los Angeles,59576
+92780,Orange,59499
+92630,Orange,59403
+93291,Tulare,59270
+90066,Los Angeles,59167
+92507,Riverside,59152
+95828,Sacramento,58717
+93117,Santa Barbara,58546
+93309,Kern,58538
+93030,Ventura,58422
+92113,San Diego,58408
+92392,San Bernardino,58393
+90813,Los Angeles,58380
+92530,Riverside,58184
+92071,San Diego,57710
+92571,Riverside,57622
+94109,San Francisco,57302
+93458,Santa Barbara,57256
+92117,San Diego,56983
+92708,Orange,56953
+90745,Los Angeles,56930
+90744,Los Angeles,56880
+92027,San Diego,56788
+91764,San Bernardino,56677
+94087,Santa Clara,56668
+93063,Ventura,56458
+93436,Santa Barbara,56323
+92130,San Diego,56134
+95122,Santa Clara,56121
+92646,Orange,55870
+95116,Santa Clara,55825
+95376,San Joaquin,55655
+94568,Alameda,55608
+92223,Riverside,55580
+95670,Sacramento,55558
+91405,Los Angeles,55506
+93313,Kern,55221
+91745,Los Angeles,55202
+94591,Solano,55157
+92701,Orange,55058
+94539,Alameda,54982
+93215,Kern,54958
+91406,Los Angeles,54890
+91801,Los Angeles,54768
+92129,San Diego,54762
+92840,Orange,54735
+90723,Los Angeles,54513
+91304,Los Angeles,54361
+92234,Riverside,54357
+92399,San Bernardino,54268
+92584,Riverside,54235
+95350,Stanislaus,54210
+91913,San Diego,54114
+93308,Kern,53981
+90063,Los Angeles,53980
+90034,Los Angeles,53861
+91786,San Bernardino,53697
+91344,Los Angeles,53613
+92870,Orange,53600
+90018,Los Angeles,53490
+95023,San Benito,53423
+92557,Riverside,53406
+90002,Los Angeles,53302
+92505,Riverside,53282
+95125,Santa Clara,53155
+91605,Los Angeles,53113
+94601,Alameda,53039
+92025,San Diego,52985
+95648,Placer,52949
+90220,Los Angeles,52817
+92620,Orange,52569
+92833,Orange,52435
+92056,San Diego,52337
+93277,Tulare,52271
+95207,San Joaquin,52269
+92656,Orange,52268
+95616,Yolo,52212
+95037,Santa Clara,51994
+90221,Los Angeles,51688
+93003,Ventura,51629
+90024,Los Angeles,51627
+92084,San Diego,51619
+95124,Santa Clara,51455
+90047,Los Angeles,51411
+92024,San Diego,51381
+92128,San Diego,51357
+90046,Los Angeles,50900
+92691,Orange,50839
+92886,Orange,50784
+92111,San Diego,50693
+91767,Los Angeles,50606
+92626,Orange,50605
+93551,Los Angeles,50601
+90703,Los Angeles,50589
+92078,San Diego,50510
+94086,Santa Clara,50477
+92243,Imperial,50402
+92069,San Diego,50376
+94550,Alameda,50374
+92026,San Diego,50321
+90057,Los Angeles,50152
+92127,San Diego,49935
+93638,Madera,49932
+92544,Riverside,49923
+92064,San Diego,49805
+94553,Contra Costa,49784
+91306,Los Angeles,49678
+90638,Los Angeles,49227
+90630,Orange,49205
+94014,San Mateo,49170
+90033,Los Angeles,49155
+93304,Kern,49115
+93611,Fresno,49053
+92618,Orange,48997
+95240,San Joaquin,48799
+95351,Stanislaus,48542
+90247,Los Angeles,48293
+95148,Santa Clara,48273
+94303,San Mateo,48244
+92028,San Diego,48173
+92122,San Diego,48071
+90032,Los Angeles,48031
+92879,Riverside,47872
+95336,San Joaquin,47855
+95843,Sacramento,47823
+95060,Santa Cruz,47801
+94577,Alameda,47682
+95136,Santa Clara,47476
+94116,San Francisco,47346
+92705,Orange,47298
+94551,Alameda,47227
+94560,Alameda,47171
+92109,San Diego,47111
+93720,Fresno,47081
+91748,Los Angeles,47079
+91352,Los Angeles,47076
+90025,Los Angeles,46883
+92843,Orange,46873
+92692,Orange,46800
+90023,Los Angeles,46680
+92009,San Diego,46612
+91765,Los Angeles,46593
+90065,Los Angeles,46461
+90620,Orange,46414
+95008,Santa Clara,46352
+92040,San Diego,46306
+95610,Sacramento,46305
+95307,Stanislaus,46283
+92506,Riverside,46241
+92648,Orange,46228
+90059,Los Angeles,46185
+93455,Santa Barbara,46175
+93010,Ventura,46063
+92058,San Diego,46029
+91367,Los Angeles,45970
+90016,Los Angeles,45899
+94566,Alameda,45893
+90043,Los Angeles,45873
+93311,Kern,45481
+92236,Riverside,45477
+91790,Los Angeles,45444
+92104,San Diego,45435
+91733,Los Angeles,45365
+95403,Sonoma,45096
+92410,San Bernardino,45052
+95209,San Joaquin,44980
+91320,Ventura,44968
+92688,Orange,44832
+90027,Los Angeles,44770
+95822,Sacramento,44741
+92867,Orange,44655
+94117,San Francisco,44650
+93446,San Luis Obispo,44636
+90503,Los Angeles,44605
+92555,Riverside,44452
+91789,Los Angeles,44440
+94403,San Mateo,44408
+94546,Alameda,44378
+96003,Shasta,44328
+94928,Sonoma,44323
+91606,Los Angeles,44295
+92102,San Diego,44010
+94121,San Francisco,43616
+93702,Fresno,43601
+94605,Alameda,43399
+94025,San Mateo,43392
+92374,San Bernardino,43391
+94521,Contra Costa,43281
+92019,San Diego,43272
+90241,Los Angeles,43215
+91360,Ventura,43121
+94066,San Mateo,43101
+95831,Sacramento,43094
+95762,El Dorado,43052
+94531,Contra Costa,43022
+90604,Los Angeles,42911
+95380,Stanislaus,42866
+93726,Fresno,42824
+94010,San Mateo,42760
+90242,Los Angeles,42694
+94561,Contra Costa,42473
+90007,Los Angeles,42433
+94134,San Francisco,42418
+92308,San Bernardino,42207
+90275,Los Angeles,42146
+94118,San Francisco,42095
+95678,Placer,42053
+91387,Los Angeles,42034
+93292,Tulare,42031
+95407,Sonoma,42026
+92802,Orange,42016
+90806,Los Angeles,41990
+90501,Los Angeles,41975
+92545,Riverside,41879
+94578,Alameda,41865
+92054,San Diego,41807
+95132,Santa Clara,41790
+95621,Sacramento,41740
+94901,Marin,41713
+92591,Riverside,41609
+95210,San Joaquin,41509
+90815,Los Angeles,41312
+95695,Yolo,41278
+93635,Merced,41180
+92101,San Diego,41159
+93637,Madera,41108
+91016,Los Angeles,41105
+94804,Contra Costa,40931
+92253,Riverside,40929
+95991,Sutter,40861
+95628,Sacramento,40855
+91311,Los Angeles,40839
+93706,Fresno,40586
+90045,Los Angeles,40567
+95404,Sonoma,40497
+93454,Santa Barbara,40432
+90278,Los Angeles,40252
+90605,Los Angeles,40192
+95835,Sacramento,40170
+91942,San Diego,40151
+92231,Imperial,40064
+95926,Butte,40000
+90031,Los Angeles,39916
+95833,Sacramento,39905
+93552,Los Angeles,39905
+91739,San Bernardino,39875
+91401,Los Angeles,39755
+95129,Santa Clara,39741
+90005,Los Angeles,39732
+92083,San Diego,39509
+91701,San Bernardino,39461
+92806,Orange,39442
+93534,Los Angeles,39367
+90808,Los Angeles,39330
+92337,San Bernardino,39240
+90804,Los Angeles,39239
+95765,Placer,39214
+90020,Los Angeles,39189
+95301,Merced,39186
+95337,San Joaquin,39177
+92307,San Bernardino,39149
+95826,Sacramento,39145
+95838,Sacramento,39053
+94061,San Mateo,39023
+94044,San Mateo,38984
+94611,Alameda,38975
+90802,Los Angeles,38962
+91763,San Bernardino,38863
+95401,Sonoma,38839
+92675,Orange,38803
+94954,Sonoma,38763
+94520,Contra Costa,38753
+95382,Stanislaus,38700
+95050,Santa Clara,38699
+95691,Yolo,38690
+91776,Los Angeles,38664
+93021,Ventura,38581
+93245,Kings,38480
+94555,Alameda,38478
+92508,Riverside,38428
+95205,San Joaquin,38350
+92543,Riverside,38314
+90301,Los Angeles,38234
+94606,Alameda,38220
+92037,San Diego,38168
+95120,Santa Clara,38122
+93711,Fresno,38007
+90036,Los Angeles,37965
+93305,Kern,37902
+91104,Los Angeles,37874
+91001,Los Angeles,37818
+95928,Butte,37735
+92821,Orange,37712
+91205,Los Angeles,37638
+95121,Santa Clara,37531
+92065,San Diego,37505
+95825,Sacramento,37473
+92831,Orange,37359
+94590,Solano,37280
+95688,Solano,37260
+94588,Alameda,37253
+90810,Los Angeles,37251
+90505,Los Angeles,37220
+95993,Sutter,37077
+94404,San Mateo,36985
+95128,Santa Clara,36975
+92869,Orange,36846
+91601,Los Angeles,36841
+93705,Fresno,36808
+91711,Los Angeles,36777
+95062,Santa Cruz,36737
+95973,Butte,36682
+90029,Los Angeles,36668
+91362,Ventura,36604
+95476,Sonoma,36586
+90012,Los Angeles,36552
+94040,Santa Clara,36526
+95667,El Dorado,36487
+95820,Sacramento,36437
+90049,Los Angeles,36418
+91326,Los Angeles,36339
+95126,Santa Clara,36206
+91350,Los Angeles,36173
+91340,Los Angeles,36156
+92139,San Diego,36105
+93012,Ventura,36052
+94401,San Mateo,36001
+92883,Riverside,35933
+90062,Los Angeles,35916
+93405,San Luis Obispo,35898
+94603,Alameda,35862
+95340,Merced,35827
+95821,Sacramento,35812
+92706,Orange,35748
+94124,San Francisco,35747
+91752,Riverside,35694
+92807,Orange,35687
+93657,Fresno,35666
+90621,Orange,35598
+94952,Sonoma,35503
+90266,Los Angeles,35500
+95660,Sacramento,35461
+92660,Orange,35446
+95361,Stanislaus,35308
+92649,Orange,35278
+92240,Riverside,35278
+94583,Contra Costa,35231
+91768,Los Angeles,35191
+93612,Fresno,35140
+91780,Los Angeles,35133
+94621,Alameda,35035
+94523,Contra Costa,35005
+93561,Kern,34979
+94114,San Francisco,34918
+92394,San Bernardino,34915
+94063,San Mateo,34867
+90277,Los Angeles,34827
+90260,Los Angeles,34827
+91206,Los Angeles,34739
+92131,San Diego,34727
+92103,San Diego,34700
+92260,Riverside,34660
+91722,Los Angeles,34631
+94115,San Francisco,34604
+91325,Los Angeles,34575
+93955,Monterey,34566
+96001,Shasta,34293
+92301,San Bernardino,34250
+92672,Orange,34218
+96002,Shasta,34196
+91750,Los Angeles,34129
+91007,Los Angeles,34116
+91321,Los Angeles,34014
+92551,Riverside,34011
+91773,Los Angeles,34007
+95348,Merced,34002
+93555,Kern,33833
+93060,Ventura,33773
+92841,Orange,33754
+92595,Riverside,33649
+91754,Los Angeles,33636
+92881,Riverside,33531
+92220,Riverside,33525
+95842,Sacramento,33522
+91915,San Diego,33485
+93422,San Luis Obispo,33466
+95901,Yuba,33455
+92311,San Bernardino,33454
+93710,Fresno,33448
+90504,Los Angeles,33410
+92116,San Diego,33408
+91791,Los Angeles,33397
+92373,San Bernardino,33353
+92612,Orange,33234
+90222,Los Angeles,33200
+91423,Los Angeles,33172
+94526,Contra Costa,33135
+95341,Merced,33090
+90606,Los Angeles,32987
+91006,Los Angeles,32958
+91604,Los Angeles,32910
+93703,Fresno,32754
+94545,Alameda,32724
+91351,Los Angeles,32711
+92583,Riverside,32697
+90230,Los Angeles,32687
+92679,Orange,32657
+95356,Stanislaus,32622
+92124,San Diego,32600
+91354,Los Angeles,32544
+95358,Stanislaus,32524
+91107,Los Angeles,32503
+92123,San Diego,32473
+95118,Santa Clara,32421
+93001,Ventura,32396
+92596,Riverside,32256
+93940,Monterey,32236
+90807,Los Angeles,32202
+95662,Sacramento,32172
+90803,Los Angeles,32126
+95377,San Joaquin,32091
+90601,Los Angeles,32053
+94941,Marin,32009
+94610,Alameda,31936
+91941,San Diego,31918
+95632,Sacramento,31911
+90008,Los Angeles,31754
+91303,Los Angeles,31586
+94589,Solano,31536
+93004,Ventura,31525
+95482,Mendocino,31482
+93618,Tulare,31470
+94107,San Francisco,31461
+94132,San Francisco,31436
+94102,San Francisco,31392
+93101,Santa Barbara,31371
+95661,Placer,31315
+95131,Santa Clara,31236
+92107,San Diego,31223
+90712,Los Angeles,31217
+94801,Contra Costa,31210
+95070,Santa Clara,31196
+94043,Santa Clara,31161
+92203,Riverside,31140
+94070,San Mateo,31074
+94608,Alameda,31013
+92173,San Diego,31000
+91505,Los Angeles,30902
+91214,Los Angeles,30787
+92673,Orange,30768
+93420,San Luis Obispo,30740
+95472,Sonoma,30736
+93662,Fresno,30725
+94103,San Francisco,30703
+91607,Los Angeles,30611
+92120,San Diego,30550
+90680,Orange,30531
+91355,Los Angeles,30526
+91316,Los Angeles,30499
+94580,Alameda,30488
+94903,Marin,30427
+93654,Fresno,30373
+95117,Santa Clara,30369
+95682,El Dorado,30314
+95824,Sacramento,30296
+91731,Los Angeles,30222
+94602,Alameda,30162
+92405,San Bernardino,30112
+92110,San Diego,30108
+95834,Sacramento,30076
+90302,Los Angeles,30017
+92653,Orange,30012
+95966,Butte,29860
+91356,Los Angeles,29822
+94549,Contra Costa,29795
+90028,Los Angeles,29774
+93704,Fresno,29740
+91746,Los Angeles,29709
+91324,Los Angeles,29670
+91792,Los Angeles,29619
+94704,Alameda,29597
+92694,Orange,29570
+91803,Los Angeles,29567
+94585,Solano,29525
+94131,San Francisco,29523
+90039,Los Angeles,29510
+95603,Placer,29474
+95212,San Joaquin,29426
+93035,Ventura,29354
+95134,Santa Clara,29349
+96150,El Dorado,29327
+95492,Sonoma,29271
+95219,San Joaquin,29270
+91384,Los Angeles,29212
+96080,Tehama,29139
+90041,Los Angeles,29090
+92604,Orange,28990
+93401,San Luis Obispo,28854
+94518,Contra Costa,28734
+92316,San Bernardino,28704
+95204,San Joaquin,28667
+92262,Riverside,28618
+90038,Los Angeles,28580
+95133,Santa Clara,28565
+93105,Santa Barbara,28545
+95961,Yuba,28489
+94062,San Mateo,28423
+94510,Solano,28350
+95829,Sacramento,28264
+90713,Los Angeles,28202
+93901,Monterey,28194
+90405,Los Angeles,28156
+93280,Kern,28138
+95370,Tuolumne,28096
+90710,Los Angeles,28045
+91364,Los Angeles,27971
+95363,Stanislaus,27908
+90061,Los Angeles,27873
+94598,Contra Costa,27831
+90017,Los Angeles,27723
+91103,Los Angeles,27659
+94559,Napa,27593
+95618,Yolo,27519
+94306,Santa Clara,27435
+90270,Los Angeles,27287
+90035,Los Angeles,27272
+91945,San Diego,27236
+93725,Fresno,27214
+92227,Imperial,27189
+92614,Orange,27187
+95409,Sonoma,27186
+94002,San Mateo,27155
+92008,San Diego,27151
+90746,Los Angeles,27075
+92868,Orange,27072
+91042,Los Angeles,26966
+93960,Monterey,26966
+90291,Los Angeles,26950
+92629,Orange,26877
+92860,Riverside,26849
+94607,Alameda,26823
+91755,Los Angeles,26803
+94133,San Francisco,26796
+91741,Los Angeles,26794
+91504,Los Angeles,26749
+91724,Los Angeles,26717
+91302,Los Angeles,26712
+91932,San Diego,26492
+90249,Los Angeles,26429
+90240,Los Angeles,26413
+95242,San Joaquin,26409
+91010,Los Angeles,26380
+91307,Los Angeles,26341
+91301,Los Angeles,26334
+92284,San Bernardino,26182
+92606,Orange,26171
+94530,Contra Costa,26145
+91411,Los Angeles,26111
+91784,San Bernardino,26090
+95032,Santa Clara,26047
+95503,Humboldt,25972
+90304,Los Angeles,25946
+90064,Los Angeles,25925
+92532,Riverside,25923
+94803,Contra Costa,25893
+94123,San Francisco,25890
+91740,Los Angeles,25877
+94947,Marin,25867
+92832,Orange,25837
+94402,San Mateo,25703
+95815,Sacramento,25673
+92411,San Bernardino,25650
+91030,Los Angeles,25637
+94547,Contra Costa,25616
+90602,Los Angeles,25581
+91106,Los Angeles,25543
+95677,Placer,25477
+93933,Monterey,25442
+95945,Nevada,25381
+94506,Contra Costa,25240
+95003,Santa Cruz,25185
+91403,Los Angeles,25156
+91737,San Bernardino,25154
+95367,Stanislaus,25072
+90274,Los Angeles,25061
+92211,Riverside,25056
+91775,Los Angeles,25004
+95354,Stanislaus,24923
+92119,San Diego,24831
+92651,Orange,24800
+95054,Santa Clara,24524
+90303,Los Angeles,24374
+95215,San Joaquin,24326
+90740,Orange,24307
+93041,Ventura,24208
+94619,Alameda,24112
+92251,Imperial,23970
+95746,Placer,23934
+95776,Yolo,23911
+90403,Los Angeles,23902
+95531,Del Norte,23737
+94609,Alameda,23726
+94024,Santa Clara,23675
+95969,Butte,23572
+90292,Los Angeles,23549
+92835,Orange,23528
+93212,Kings,23357
+95864,Sacramento,23352
+91202,Los Angeles,23345
+95501,Humboldt,23324
+93907,Monterey,23299
+91201,Los Angeles,23281
+92602,Orange,23238
+96007,Shasta,23228
+94085,Santa Clara,23223
+92844,Orange,23189
+92277,San Bernardino,23172
+94597,Contra Costa,23108
+92782,Orange,23084
+90404,Los Angeles,22929
+94089,Santa Clara,22882
+90732,Los Angeles,22780
+95330,San Joaquin,22760
+93610,Madera,22724
+93203,Kern,22662
+90015,Los Angeles,22651
+94030,San Mateo,22625
+92118,San Diego,22548
+92225,Riverside,22460
+92108,San Diego,22280
+90720,Orange,22261
+93263,Kern,22210
+92354,San Bernardino,22050
+95135,Santa Clara,22015
+95620,Solano,21954
+92663,Orange,21951
+92585,Riverside,21907
+94579,Alameda,21883
+93560,Kern,21756
+94596,Contra Costa,21700
+94703,Alameda,21697
+90272,Los Angeles,21629
+95818,Sacramento,21625
+92501,Riverside,21590
+90603,Los Angeles,21584
+90717,Los Angeles,21508
+90048,Los Angeles,21489
+91101,Los Angeles,21395
+93444,San Luis Obispo,21331
+95841,Sacramento,21229
+94706,Alameda,21218
+94127,San Francisco,21151
+90068,Los Angeles,21092
+95405,Sonoma,21082
+95521,Humboldt,21068
+95949,Nevada,21036
+93630,Fresno,20764
+95138,Santa Clara,20674
+95827,Sacramento,20666
+92865,Orange,20664
+93103,Santa Barbara,20538
+94019,San Mateo,20512
+91501,Los Angeles,20511
+95965,Butte,20498
+92808,Orange,20483
+92377,San Bernardino,20476
+91011,Los Angeles,20301
+94503,Napa,20276
+91361,Ventura,20258
+90715,Los Angeles,20256
+90069,Los Angeles,20230
+92106,San Diego,20155
+95391,San Joaquin,20131
+96130,Lassen,20119
+92264,Riverside,20072
+91040,Los Angeles,20049
+94519,Contra Costa,20041
+92887,Orange,20012
+95110,Santa Clara,19928
+93023,Ventura,19895
+95819,Sacramento,19890
+95519,Humboldt,19763
+90814,Los Angeles,19685
+91602,Los Angeles,19672
+94563,Contra Costa,19644
+92603,Orange,19558
+90254,Los Angeles,19539
+92586,Riverside,19472
+94022,Santa Clara,19406
+91381,Los Angeles,19390
+92029,San Diego,19382
+90210,Los Angeles,19314
+94564,Contra Costa,19260
+91390,Los Angeles,19168
+91345,Los Angeles,19145
+94945,Marin,19043
+91902,San Diego,18896
+93927,Monterey,18812
+93268,Kern,18731
+91204,Los Angeles,18723
+92082,San Diego,18705
+94949,Marin,18695
+91506,Los Angeles,18591
+91723,Los Angeles,18521
+96161,Nevada,18488
+95959,Nevada,18343
+93210,Fresno,18336
+92371,San Bernardino,18269
+93247,Tulare,18234
+92270,Riverside,18193
+91901,San Diego,18162
+94595,Contra Costa,18117
+93015,Ventura,17989
+90265,Los Angeles,17954
+95366,San Joaquin,17909
+90502,Los Angeles,17778
+95602,Placer,17557
+95448,Sonoma,17407
+91914,San Diego,17379
+93111,Santa Barbara,17329
+94618,Alameda,17252
+92587,Riverside,17237
+92582,Riverside,17219
+95816,Sacramento,17199
+93930,Monterey,17067
+95334,Merced,17057
+94702,Alameda,16860
+93110,Santa Barbara,16849
+90701,Los Angeles,16801
+90245,Los Angeles,16731
+90670,Los Angeles,16700
+93013,Santa Barbara,16652
+95673,Sacramento,16636
+94301,Santa Clara,16582
+93728,Fresno,16574
+93402,San Luis Obispo,16562
+94556,Contra Costa,16428
+93241,Kern,16397
+94305,Santa Clara,16397
+92610,Orange,16360
+93631,Fresno,16282
+92845,Orange,16273
+95252,Calaveras,16262
+96022,Shasta,16253
+93250,Kern,16191
+93648,Fresno,16087
+92637,Orange,16053
+96021,Tehama,16017
+94960,Marin,15868
+91208,Los Angeles,15860
+94612,Alameda,15785
+95422,Lake,15696
+90623,Orange,15662
+92866,Orange,15574
+93950,Monterey,15547
+95963,Glenn,15492
+95203,San Joaquin,15487
+91203,Los Angeles,15410
+95066,Santa Cruz,15341
+92274,Riverside,15317
+91436,Los Angeles,15292
+94507,Contra Costa,15105
+90305,Los Angeles,15042
+94552,Alameda,14938
+95437,Mendocino,14859
+95650,Placer,14808
+90232,Los Angeles,14780
+94502,Alameda,14701
+94542,Alameda,14699
+95130,Santa Clara,14660
+94041,Santa Clara,14572
+95315,Merced,14520
+95605,Yolo,14493
+93543,Los Angeles,14392
+90716,Los Angeles,14285
+95304,San Joaquin,14282
+95540,Humboldt,14196
+94805,Contra Costa,14188
+93514,Inyo,14175
+94108,San Francisco,14143
+93221,Tulare,14129
+95388,Merced,14116
+95368,Stanislaus,14041
+91377,Ventura,13853
+93505,Kern,13774
+95817,Sacramento,13758
+94517,Contra Costa,13687
+92408,San Bernardino,13635
+92014,San Diego,13568
+93433,San Luis Obispo,13535
+94705,Alameda,13527
+95030,Santa Clara,13481
+91108,Los Angeles,13375
+90212,Los Angeles,13314
+95360,Stanislaus,13278
+94904,Marin,12994
+95490,Mendocino,12975
+93204,Kings,12961
+93640,Fresno,12920
+93923,Monterey,12837
+95320,San Joaquin,12822
+92075,San Diego,12752
+94920,Marin,12740
+90293,Los Angeles,12728
+91105,Los Angeles,12617
+90013,Los Angeles,12559
+92313,San Bernardino,12547
+95742,Sacramento,12472
+94065,San Mateo,12461
+93908,Monterey,12398
+92625,Orange,12394
+95954,Butte,12371
+90040,Los Angeles,12328
+93301,Kern,12325
+95832,Sacramento,12114
+93614,Madera,11982
+94709,Alameda,11951
+95948,Butte,11917
+95814,Sacramento,11908
+90402,Los Angeles,11882
+94707,Alameda,11767
+95357,Stanislaus,11765
+92055,San Diego,11765
+93646,Fresno,11738
+90248,Los Angeles,11607
+95451,Lake,11603
+95640,Amador,11598
+92007,San Diego,11417
+93647,Tulare,11407
+94965,Marin,11394
+94708,Alameda,11394
+92314,San Bernardino,11385
+95453,Lake,11369
+91207,Los Angeles,11031
+95073,Santa Cruz,11013
+95425,Sonoma,10984
+91024,Los Angeles,10932
+95953,Sutter,10925
+93442,San Luis Obispo,10917
+94105,San Francisco,10916
+95338,Mariposa,10827
+95012,Monterey,10780
+93109,Santa Barbara,10771
+93223,Tulare,10716
+91502,Los Angeles,10708
+92567,Riverside,10648
+94571,Solano,10605
+95386,Stanislaus,10557
+91978,San Diego,10506
+95694,Yolo,10495
+95064,Santa Cruz,10486
+95713,Placer,10472
+93108,Santa Barbara,10401
+94572,Contra Costa,10384
+95322,Merced,10373
+93622,Fresno,10335
+93219,Tulare,10285
+96019,Shasta,10178
+93701,Fresno,10166
+95326,Stanislaus,10147
+95119,Santa Clara,10027
+93286,Tulare,9906
+92310,San Bernardino,9872
+94925,Marin,9838
+90094,Los Angeles,9827
+92657,Orange,9802
+92254,Riverside,9779
+96097,Siskiyou,9746
+95006,Santa Cruz,9632
+93546,Mono,9591
+95033,Santa Clara,9511
+92252,San Bernardino,9351
+93465,San Luis Obispo,9202
+93926,Monterey,9171
+92359,San Bernardino,9170
+93644,Madera,9055
+95946,Nevada,8977
+94931,Sonoma,8926
+93620,Merced,8906
+95010,Santa Cruz,8856
+94574,Napa,8757
+92320,Riverside,8753
+94930,Marin,8728
+90014,Los Angeles,8688
+92250,Imperial,8655
+91020,Los Angeles,8633
+91935,San Diego,8550
+95065,Santa Cruz,8491
+95726,El Dorado,8449
+92655,Orange,8382
+90077,Los Angeles,8382
+95324,Merced,8380
+95988,Glenn,8298
+93449,San Luis Obispo,8180
+93625,Fresno,8059
+90211,Los Angeles,8019
+92325,San Bernardino,7948
+95327,Tuolumne,7918
+93463,Santa Barbara,7911
+94710,Alameda,7893
+92249,Imperial,7861
+92548,Riverside,7859
+92067,San Diego,7724
+92241,Riverside,7699
+95005,Santa Cruz,7661
+93721,Fresno,7650
+90056,Los Angeles,7649
+93510,Los Angeles,7644
+95932,Colusa,7633
+95220,San Joaquin,7576
+92233,Imperial,7509
+94515,Napa,7491
+93434,Santa Barbara,7451
+94027,San Mateo,7415
+95019,Santa Cruz,7368
+95139,Santa Clara,7363
+93234,Fresno,7355
+93022,Ventura,7179
+94028,San Mateo,7125
+90401,Los Angeles,7111
+93445,San Luis Obispo,7106
+95642,Amador,7101
+96067,Siskiyou,7094
+95693,Sacramento,7037
+95316,Stanislaus,7022
+95631,Placer,6851
+95018,Santa Cruz,6841
+95658,Placer,6837
+93267,Tulare,6788
+92276,Riverside,6748
+94939,Marin,6747
+93591,Los Angeles,6744
+92342,San Bernardino,6737
+96094,Siskiyou,6611
+92356,San Bernardino,6573
+93924,Monterey,6514
+92624,Orange,6372
+93615,Tulare,6347
+93240,Kern,6327
+95683,Sacramento,6326
+95436,Sonoma,6240
+93427,Santa Barbara,6200
+92372,San Bernardino,6071
+95202,San Joaquin,6066
+95626,Sacramento,6065
+95987,Colusa,5950
+95971,Plumas,5924
+95046,Santa Clara,5918
+93428,San Luis Obispo,5859
+92861,Orange,5822
+93656,Fresno,5806
+95619,El Dorado,5718
+90290,Los Angeles,5681
+92352,San Bernardino,5578
+95470,Mendocino,5561
+95709,El Dorado,5498
+95249,Calaveras,5444
+93256,Tulare,5431
+95912,Colusa,5380
+93270,Tulare,5367
+92363,San Bernardino,5348
+93460,Santa Barbara,5284
+95672,El Dorado,5266
+96101,Modoc,5262
+95692,Yuba,5251
+92315,San Bernardino,5247
+93609,Fresno,5177
+95446,Sonoma,5168
+95231,San Joaquin,5165
+95666,Amador,5164
+92003,San Diego,5160
+92590,Riverside,5154
+92210,Riverside,5138
+95722,Placer,5123
+95222,Calaveras,5029
+92278,San Bernardino,4890
+92823,Orange,4872
+96013,Shasta,4819
+93501,Kern,4802
+93225,Kern,4782
+95365,Merced,4775
+92121,San Diego,4729
+93272,Tulare,4707
+94005,San Mateo,4697
+96088,Shasta,4690
+95685,Amador,4665
+94951,Sonoma,4574
+92397,San Bernardino,4562
+92539,Riverside,4557
+95228,Calaveras,4541
+96064,Siskiyou,4533
+95328,Stanislaus,4480
+93451,San Luis Obispo,4477
+92382,San Bernardino,4462
+95938,Butte,4446
+91906,San Diego,4428
+95614,El Dorado,4359
+95665,Amador,4303
+93202,Kings,4273
+95004,Monterey,4218
+95045,San Benito,4217
+93235,Tulare,4215
+95236,San Joaquin,4199
+95633,El Dorado,4188
+95655,Sacramento,4156
+94129,San Francisco,4136
+93660,Fresno,4090
+93953,Monterey,4028
+95247,Calaveras,4024
+91708,San Bernardino,4009
+95379,Tuolumne,4003
+96073,Shasta,3980
+90704,Los Angeles,3979
+94508,Napa,3935
+93675,Fresno,3905
+96055,Tehama,3866
+95053,Santa Clara,3862
+94304,Santa Clara,3852
+94535,Solano,3842
+90010,Los Angeles,3822
+95627,Yolo,3802
+90089,Los Angeles,3786
+95423,Lake,3751
+92140,San Diego,3737
+95917,Butte,3717
+95623,El Dorado,3665
+95237,San Joaquin,3639
+96035,Tehama,3629
+94111,San Francisco,3611
+95383,Tuolumne,3611
+95258,San Joaquin,3599
+96143,Placer,3585
+96093,Trinity,3570
+95634,El Dorado,3559
+93523,Kern,3556
+95321,Tuolumne,3541
+93602,Fresno,3530
+93242,Fresno,3474
+95546,Humboldt,3466
+94038,San Mateo,3450
+92661,Orange,3445
+95562,Humboldt,3401
+93437,Santa Barbara,3387
+93265,Tulare,3379
+93921,Monterey,3316
+94525,Contra Costa,3290
+96114,Lassen,3267
+96122,Plumas,3266
+95982,Sutter,3259
+91330,Los Angeles,3257
+96137,Lassen,3252
+95457,Lake,3227
+93066,Ventura,3220
+95442,Sonoma,3213
+93650,Fresno,3173
+94964,Marin,3155
+95684,El Dorado,3129
+94599,Napa,3108
+92256,San Bernardino,3100
+92536,Riverside,3076
+94130,San Francisco,3008
+95458,Lake,2960
+90021,Los Angeles,2945
+96041,Trinity,2934
+95918,Yuba,2915
+95536,Humboldt,2899
+93430,San Luis Obispo,2847
+94720,Alameda,2845
+93643,Madera,2783
+92365,San Bernardino,2733
+90058,Los Angeles,2718
+92230,Riverside,2705
+95951,Glenn,2686
+93532,Los Angeles,2683
+95223,Calaveras,2666
+92061,San Diego,2660
+96032,Siskiyou,2653
+95485,Lake,2650
+92275,Imperial,2632
+92036,San Diego,2593
+92281,Imperial,2591
+93616,Fresno,2582
+95428,Mendocino,2580
+93453,San Luis Obispo,2578
+95329,Stanislaus,2570
+95461,Lake,2567
+95333,Merced,2539
+92662,Orange,2519
+92549,Riverside,2517
+95460,Mendocino,2508
+95464,Lake,2505
+94037,San Mateo,2504
+95663,Placer,2493
+93252,Kern,2488
+93271,Tulare,2479
+93285,Kern,2477
+93261,Tulare,2434
+92285,San Bernardino,2430
+90067,Los Angeles,2428
+93626,Fresno,2427
+93667,Fresno,2405
+96020,Plumas,2369
+95002,Santa Clara,2348
+95570,Humboldt,2338
+96027,Siskiyou,2327
+95669,Amador,2315
+92004,San Diego,2299
+93283,Kern,2261
+92401,San Bernardino,2257
+95445,Mendocino,2257
+92386,San Bernardino,2248
+93516,Kern,2244
+95465,Sonoma,2244
+95690,Sacramento,2215
+92398,San Bernardino,2195
+94511,Contra Costa,2161
+96145,Placer,2147
+95638,Sacramento,2126
+96025,Siskiyou,2126
+95113,Santa Clara,2107
+95454,Mendocino,2107
+91962,San Diego,2106
+93925,Monterey,2073
+92676,Orange,2068
+96134,Siskiyou,2059
+95372,Tuolumne,2056
+93205,Kern,2030
+92273,Imperial,2010
+92391,San Bernardino,1959
+93258,Tulare,1952
+91916,San Diego,1939
+96113,Lassen,1925
+95469,Mendocino,1911
+95311,Mariposa,1893
+92145,San Diego,1883
+95645,Yolo,1881
+95975,Nevada,1877
+93249,Kern,1875
+95310,Tuolumne,1874
+95542,Humboldt,1871
+90263,Los Angeles,1838
+93040,Ventura,1827
+93545,Inyo,1821
+95421,Sonoma,1808
+95567,Del Norte,1802
+93651,Fresno,1798
+95441,Sonoma,1797
+96118,Sierra,1779
+93562,San Bernardino,1771
+95319,Stanislaus,1745
+95245,Calaveras,1717
+93553,Los Angeles,1709
+93206,Kern,1704
+95689,Amador,1698
+94020,San Mateo,1697
+92283,Imperial,1684
+95374,Merced,1682
+93601,Madera,1674
+95524,Humboldt,1668
+93440,Santa Barbara,1659
+95947,Plumas,1657
+95903,Yuba,1653
+95211,San Joaquin,1624
+93513,Inyo,1621
+95560,Humboldt,1615
+95664,El Dorado,1603
+93222,Kern,1583
+93201,Tulare,1580
+96052,Trinity,1574
+95573,Humboldt,1568
+93426,Monterey,1568
+95449,Mendocino,1560
+93527,Kern,1559
+93920,Monterey,1545
+92086,San Diego,1543
+95937,Yolo,1540
+93243,Kern,1532
+96056,Shasta,1530
+93432,San Luis Obispo,1503
+95641,Sacramento,1489
+95977,Yuba,1488
+94514,Contra Costa,1475
+91905,San Diego,1472
+92059,San Diego,1464
+92561,Riverside,1462
+95528,Humboldt,1437
+96107,Mono,1433
+95389,Mariposa,1417
+95551,Humboldt,1416
+96103,Plumas,1401
+95525,Humboldt,1401
+95415,Mendocino,1388
+95955,Colusa,1386
+93653,Madera,1377
+92282,Riverside,1372
+96028,Shasta,1368
+95916,Butte,1359
+96051,Shasta,1358
+95426,Lake,1350
+93461,San Luis Obispo,1349
+93266,Kings,1337
+95962,Yuba,1324
+95612,Yolo,1321
+92091,San Diego,1313
+92242,San Bernardino,1312
+95313,Stanislaus,1305
+95323,Stanislaus,1299
+95255,Calaveras,1289
+92257,Imperial,1281
+95468,Mendocino,1280
+93608,Fresno,1280
+95686,San Joaquin,1262
+95548,Del Norte,1251
+95346,Tuolumne,1251
+93239,Kings,1246
+95681,Placer,1246
+96057,Siskiyou,1235
+95968,Butte,1231
+94973,Marin,1228
+93668,Fresno,1219
+94957,Marin,1219
+95317,Merced,1203
+95636,El Dorado,1195
+96008,Shasta,1191
+96023,Siskiyou,1184
+91963,San Diego,1182
+94575,Contra Costa,1178
+93544,Los Angeles,1164
+95246,Calaveras,1159
+94956,Marin,1146
+96146,Placer,1145
+95497,Sonoma,1134
+94924,Marin,1127
+95462,Sonoma,1124
+95303,Merced,1110
+92339,San Bernardino,1077
+94922,Sonoma,1075
+95039,Monterey,1074
+95547,Humboldt,1063
+95635,El Dorado,1058
+92321,San Bernardino,1042
+96062,Shasta,1042
+95254,Calaveras,1035
+93606,Fresno,1035
+95369,Merced,1024
+92518,Riverside,1021
+92368,San Bernardino,1019
+95410,Mendocino,997
+91917,San Diego,986
+95466,Mendocino,976
+95919,Yuba,971
+96044,Siskiyou,963
+95589,Humboldt,963
+90073,Los Angeles,953
+96140,Placer,953
+94592,Solano,952
+95629,Amador,940
+95942,Butte,934
+95659,Sutter,932
+95549,Humboldt,929
+96120,Alpine,926
+94060,San Mateo,926
+93441,Santa Barbara,922
+94938,Marin,920
+95452,Sonoma,919
+95701,Placer,915
+96039,Siskiyou,904
+96142,El Dorado,885
+95957,Sutter,879
+95943,Glenn,871
+93624,Fresno,871
+93218,Tulare,871
+93666,Tulare,866
+94613,Alameda,855
+93928,Monterey,854
+96047,Shasta,849
+96024,Trinity,846
+96104,Modoc,842
+95230,San Joaquin,840
+95456,Mendocino,838
+94933,Marin,837
+94586,Alameda,831
+95922,Yuba,831
+95703,Placer,831
+93518,Kern,814
+96109,Lassen,812
+94923,Sonoma,808
+95345,Mariposa,802
+96069,Shasta,800
+93424,San Luis Obispo,795
+95652,Sacramento,789
+93254,Santa Barbara,786
+92070,San Diego,786
+95941,Butte,775
+95674,Sutter,767
+95553,Humboldt,767
+93450,Monterey,767
+95565,Humboldt,762
+93673,Tulare,754
+95914,Butte,752
+93665,Merced,752
+95552,Trinity,750
+94937,Marin,742
+92327,San Bernardino,737
+95830,Sacramento,734
+96038,Siskiyou,732
+95043,San Benito,731
+96048,Trinity,730
+95439,Sonoma,728
+92358,San Bernardino,722
+93932,Monterey,709
+95432,Mendocino,706
+95543,Del Norte,705
+95444,Sonoma,705
+95615,Sacramento,704
+96096,Shasta,703
+92347,San Bernardino,702
+94970,Marin,698
+92066,San Diego,693
+90742,Orange,692
+93255,Kern,691
+96128,Lassen,685
+95960,Nevada,684
+95017,Santa Cruz,681
+93238,Kern,673
+92322,San Bernardino,672
+95563,Trinity,665
+95668,Sutter,664
+94946,Marin,658
+93452,San Luis Obispo,658
+94567,Napa,658
+92305,San Bernardino,657
+95306,Mariposa,654
+95227,San Joaquin,654
+95459,Mendocino,641
+93517,Mono,641
+95387,Stanislaus,636
+92135,San Diego,635
+93526,Inyo,629
+95251,Calaveras,625
+95651,El Dorado,624
+96091,Trinity,618
+95970,Colusa,616
+91931,San Diego,613
+95939,Glenn,605
+95556,Humboldt,598
+92678,Orange,584
+95653,Yolo,581
+96148,Placer,580
+95471,Sonoma,573
+92309,San Bernardino,572
+95675,Amador,566
+92258,Riverside,559
+96058,Siskiyou,553
+93954,Monterey,551
+95233,Calaveras,548
+96087,Shasta,544
+96059,Tehama,542
+93604,Madera,541
+93652,Fresno,540
+96084,Shasta,536
+91210,Los Angeles,529
+95420,Mendocino,523
+95714,Placer,522
+92147,San Diego,518
+94021,San Mateo,511
+95554,Humboldt,508
+95527,Trinity,499
+96033,Shasta,490
+96090,Tehama,481
+93224,Kern,471
+95075,San Benito,459
+96124,Sierra,458
+95585,Mendocino,457
+92155,San Diego,456
+92268,San Bernardino,455
+92328,Inyo,438
+95555,Humboldt,437
+95041,Santa Cruz,436
+94104,San Francisco,429
+96016,Shasta,424
+95558,Humboldt,416
+95385,San Joaquin,415
+95979,Colusa,414
+93962,Monterey,414
+93067,Santa Barbara,410
+96129,Plumas,408
+95257,Calaveras,407
+94963,Marin,404
+96065,Shasta,403
+96141,Placer,403
+95412,Sonoma,397
+92333,San Bernardino,392
+93529,Mono,390
+95607,Yolo,389
+95564,Humboldt,389
+96006,Modoc,389
+94528,Contra Costa,384
+96050,Siskiyou,381
+93664,Fresno,380
+95983,Plumas,380
+95225,Calaveras,378
+94548,Contra Costa,377
+95493,Lake,377
+95007,Santa Cruz,374
+96105,Plumas,372
+95569,Humboldt,371
+96063,Tehama,359
+96121,Lassen,358
+93563,Los Angeles,357
+95417,Mendocino,356
+96117,Lassen,355
+95950,Colusa,350
+96075,Tehama,350
+95956,Plumas,348
+96092,Tehama,343
+93531,Kern,338
+95639,Sacramento,335
+93512,Mono,328
+95984,Plumas,327
+91934,San Diego,323
+96009,Lassen,321
+96015,Modoc,320
+96054,Modoc,319
+95920,Glenn,315
+93244,Tulare,308
+91759,Los Angeles,307
+95571,Humboldt,304
+96135,Plumas,301
+95837,Sacramento,300
+95435,Lake,299
+93549,Inyo,293
+95736,Placer,289
+94940,Marin,287
+92134,San Diego,285
+96076,Shasta,284
+96037,Siskiyou,279
+96034,Siskiyou,279
+96086,Siskiyou,278
+95925,Yuba,276
+95312,Merced,276
+96106,Plumas,274
+95568,Siskiyou,274
+95637,Yolo,268
+95511,Humboldt,262
+95935,Yuba,261
+93207,Tulare,256
+94929,Marin,254
+95537,Humboldt,251
+95606,Yolo,249
+93627,Fresno,247
+95978,Butte,245
+93541,Mono,244
+93669,Madera,238
+90743,Orange,236
+92378,San Bernardino,234
+95728,Nevada,231
+95450,Sonoma,227
+92239,Riverside,227
+95427,Mendocino,226
+94971,Marin,226
+93260,Tulare,226
+96112,Modoc,224
+93641,Fresno,223
+92341,San Bernardino,222
+95318,Mariposa,220
+92385,San Bernardino,216
+96068,Lassen,204
+93251,Kern,202
+96011,Shasta,199
+93605,Fresno,198
+95526,Humboldt,196
+95443,Lake,193
+95697,Yolo,183
+94569,Contra Costa,180
+95488,Mendocino,179
+95717,Placer,176
+93603,Tulare,175
+96116,Modoc,172
+95494,Mendocino,171
+94074,San Mateo,170
+92389,Inyo,168
+95224,Calaveras,167
+96029,Tehama,167
+92060,San Diego,166
+93524,Kern,165
+96074,Tehama,164
+95232,Calaveras,161
+95431,Sonoma,161
+91046,Los Angeles,158
+95936,Sierra,158
+95335,Tuolumne,153
+95601,Amador,151
+93645,Madera,148
+95698,Yolo,148
+95934,Plumas,146
+94128,San Mateo,146
+93429,Santa Barbara,144
+93276,Kern,144
+93043,Ventura,144
+96017,Shasta,140
+95514,Humboldt,140
+95595,Trinity,139
+95463,Mendocino,136
+93621,Fresno,136
+96014,Siskiyou,135
+90822,Los Angeles,133
+96031,Siskiyou,133
+91948,San Diego,130
+90071,Los Angeles,126
+96133,Mono,126
+96125,Sierra,126
+96110,Modoc,126
+93554,Kern,125
+96040,Shasta,124
+94950,Marin,123
+95910,Sierra,123
+96010,Trinity,122
+93226,Kern,121
+92259,Imperial,121
+93528,Kern,119
+93042,Ventura,118
+95545,Humboldt,118
+95429,Mendocino,116
+96115,Modoc,115
+96046,Trinity,115
+93592,San Bernardino,115
+93623,Mariposa,114
+92266,Imperial,112
+93208,Tulare,106
+95248,Calaveras,106
+94576,Napa,105
+95715,Placer,104
+94516,Contra Costa,103
+95720,El Dorado,103
+95140,Santa Clara,102
+93522,Inyo,100
+92332,San Bernardino,97
+95314,Tuolumne,95
+95550,Humboldt,94
+96049,Shasta,90
+95604,Placer,85
+96126,Sierra,85
+95013,Santa Clara,85
+96111,Nevada,83
+93628,Fresno,83
+95646,Alpine,80
+96108,Modoc,80
+95325,Mariposa,78
+95625,Solano,74
+93287,Kern,72
+95930,Butte,72
+95559,Humboldt,70
+95974,Butte,65
+93220,Kern,65
+96119,Lassen,59
+95679,Yolo,56
+95986,Nevada,56
+96085,Siskiyou,54
+93262,Tulare,53
+95587,Mendocino,51
+95486,Sonoma,51
+96132,Lassen,50
+96136,Lassen,44
+95981,Yuba,39
+94573,Napa,36
+96071,Shasta,31
+95923,Plumas,28
+93558,San Bernardino,26
+95944,Sierra,26
+96123,Lassen,25
+94972,Sonoma,25
+92304,San Bernardino,23
+95724,Nevada,22
+93634,Fresno,22
+91608,Los Angeles,21
+95699,Amador,21
+96061,Tehama,21
+92384,Inyo,17
+94512,Solano,16
+95735,El Dorado,12
+93530,Inyo,10
+95680,Sacramento,10
+95430,Sonoma,7
+92267,San Bernardino,6
+92364,San Bernardino,6
+95375,Tuolumne,5
+95250,Calaveras,0
+95234,San Joaquin,0
+95226,Calaveras,0
+96155,El Dorado,0
+95915,Plumas,0
+95721,El Dorado,0
+95364,Tuolumne,0
+95305,Tuolumne,0
+94850,Contra Costa,0
+90095,Los Angeles,0
+90079,Los Angeles,0
+90506,Los Angeles,0
+91980,San Diego,0
+91371,Los Angeles,0
+90831,Los Angeles,0
+90747,Los Angeles,0
+92338,San Bernardino,0
+92280,San Bernardino,0
+92222,Imperial,0
+92132,San Diego,0
+93943,Monterey,0
+93410,San Luis Obispo,0
+93633,Tulare,0
+93519,Kern,0
+93064,Ventura,0

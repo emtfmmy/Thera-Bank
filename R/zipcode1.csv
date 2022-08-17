@@ -1,0 +1,3120 @@
+zip,city,state_id,state_name
+90001,Los Angeles,CA,California
+90002,Los Angeles,CA,California
+90003,Los Angeles,CA,California
+90004,Los Angeles,CA,California
+90005,Los Angeles,CA,California
+90006,Los Angeles,CA,California
+90007,Los Angeles,CA,California
+90008,Los Angeles,CA,California
+90010,Los Angeles,CA,California
+90011,Los Angeles,CA,California
+90012,Los Angeles,CA,California
+90013,Los Angeles,CA,California
+90014,Los Angeles,CA,California
+90015,Los Angeles,CA,California
+90016,Los Angeles,CA,California
+90017,Los Angeles,CA,California
+90018,Los Angeles,CA,California
+90019,Los Angeles,CA,California
+90020,Los Angeles,CA,California
+90021,Los Angeles,CA,California
+90022,Los Angeles,CA,California
+90023,Los Angeles,CA,California
+90024,Los Angeles,CA,California
+90025,Los Angeles,CA,California
+90026,Los Angeles,CA,California
+90027,Los Angeles,CA,California
+90028,Los Angeles,CA,California
+90029,Los Angeles,CA,California
+90031,Los Angeles,CA,California
+90032,Los Angeles,CA,California
+90033,Los Angeles,CA,California
+90034,Los Angeles,CA,California
+90035,Los Angeles,CA,California
+90036,Los Angeles,CA,California
+90037,Los Angeles,CA,California
+90038,Los Angeles,CA,California
+90039,Los Angeles,CA,California
+90040,Los Angeles,CA,California
+90041,Los Angeles,CA,California
+90042,Los Angeles,CA,California
+90043,Los Angeles,CA,California
+90044,Los Angeles,CA,California
+90045,Los Angeles,CA,California
+90046,Los Angeles,CA,California
+90047,Los Angeles,CA,California
+90048,Los Angeles,CA,California
+90049,Los Angeles,CA,California
+90056,Los Angeles,CA,California
+90057,Los Angeles,CA,California
+90058,Los Angeles,CA,California
+90059,Los Angeles,CA,California
+90061,Los Angeles,CA,California
+90062,Los Angeles,CA,California
+90063,Los Angeles,CA,California
+90064,Los Angeles,CA,California
+90065,Los Angeles,CA,California
+90066,Los Angeles,CA,California
+90067,Los Angeles,CA,California
+90068,Los Angeles,CA,California
+90069,West Hollywood,CA,California
+90071,Los Angeles,CA,California
+90073,Los Angeles,CA,California
+90077,Los Angeles,CA,California
+90079,Los Angeles,CA,California
+90089,Los Angeles,CA,California
+90090,Dodgertown,CA,California
+90094,Playa Vista,CA,California
+90095,Los Angeles,CA,California
+90201,Bell Gardens,CA,California
+90210,Beverly Hills,CA,California
+90211,Beverly Hills,CA,California
+90212,Beverly Hills,CA,California
+90220,Compton,CA,California
+90221,Compton,CA,California
+90222,Compton,CA,California
+90230,Culver City,CA,California
+90232,Culver City,CA,California
+90240,Downey,CA,California
+90241,Downey,CA,California
+90242,Downey,CA,California
+90245,El Segundo,CA,California
+90247,Gardena,CA,California
+90248,Gardena,CA,California
+90249,Gardena,CA,California
+90250,Hawthorne,CA,California
+90254,Hermosa Beach,CA,California
+90255,Huntington Park,CA,California
+90260,Lawndale,CA,California
+90262,Lynwood,CA,California
+90263,Malibu,CA,California
+90265,Malibu,CA,California
+90266,Manhattan Beach,CA,California
+90270,Maywood,CA,California
+90272,Pacific Palisades,CA,California
+90274,Palos Verdes Peninsula,CA,California
+90275,Rancho Palos Verdes,CA,California
+90277,Redondo Beach,CA,California
+90278,Redondo Beach,CA,California
+90280,South Gate,CA,California
+90290,Topanga,CA,California
+90291,Venice,CA,California
+90292,Marina Del Rey,CA,California
+90293,Playa Del Rey,CA,California
+90301,Inglewood,CA,California
+90302,Inglewood,CA,California
+90303,Inglewood,CA,California
+90304,Inglewood,CA,California
+90305,Inglewood,CA,California
+90401,Santa Monica,CA,California
+90402,Santa Monica,CA,California
+90403,Santa Monica,CA,California
+90404,Santa Monica,CA,California
+90405,Santa Monica,CA,California
+90501,Torrance,CA,California
+90502,Torrance,CA,California
+90503,Torrance,CA,California
+90504,Torrance,CA,California
+90505,Torrance,CA,California
+90506,Torrance,CA,California
+90601,Whittier,CA,California
+90602,Whittier,CA,California
+90603,Whittier,CA,California
+90604,Whittier,CA,California
+90605,Whittier,CA,California
+90606,Whittier,CA,California
+90620,Buena Park,CA,California
+90621,Buena Park,CA,California
+90623,La Palma,CA,California
+90630,Cypress,CA,California
+90631,La Habra,CA,California
+90638,La Mirada,CA,California
+90640,Montebello,CA,California
+90650,Norwalk,CA,California
+90660,Pico Rivera,CA,California
+90670,Santa Fe Springs,CA,California
+90680,Stanton,CA,California
+90701,Artesia,CA,California
+90703,Cerritos,CA,California
+90704,Avalon,CA,California
+90706,Bellflower,CA,California
+90710,Harbor City,CA,California
+90712,Lakewood,CA,California
+90713,Lakewood,CA,California
+90715,Lakewood,CA,California
+90716,Hawaiian Gardens,CA,California
+90717,Lomita,CA,California
+90720,Los Alamitos,CA,California
+90723,Paramount,CA,California
+90731,San Pedro,CA,California
+90732,San Pedro,CA,California
+90740,Seal Beach,CA,California
+90742,Sunset Beach,CA,California
+90743,Surfside,CA,California
+90744,Wilmington,CA,California
+90745,Carson,CA,California
+90746,Carson,CA,California
+90747,Carson,CA,California
+90755,Signal Hill,CA,California
+90802,Long Beach,CA,California
+90803,Long Beach,CA,California
+90804,Long Beach,CA,California
+90805,Long Beach,CA,California
+90806,Long Beach,CA,California
+90807,Long Beach,CA,California
+90808,Long Beach,CA,California
+90810,Long Beach,CA,California
+90813,Long Beach,CA,California
+90814,Long Beach,CA,California
+90815,Long Beach,CA,California
+90822,Long Beach,CA,California
+90831,Long Beach,CA,California
+91001,Altadena,CA,California
+91006,Arcadia,CA,California
+91007,Arcadia,CA,California
+91008,Duarte,CA,California
+91010,Duarte,CA,California
+91011,La Canada Flintridge,CA,California
+91016,Monrovia,CA,California
+91020,Montrose,CA,California
+91024,Sierra Madre,CA,California
+91030,South Pasadena,CA,California
+91040,Sunland,CA,California
+91042,Tujunga,CA,California
+91046,Verdugo City,CA,California
+91101,Pasadena,CA,California
+91103,Pasadena,CA,California
+91104,Pasadena,CA,California
+91105,Pasadena,CA,California
+91106,Pasadena,CA,California
+91107,Pasadena,CA,California
+91108,San Marino,CA,California
+91201,Glendale,CA,California
+91202,Glendale,CA,California
+91203,Glendale,CA,California
+91204,Glendale,CA,California
+91205,Glendale,CA,California
+91206,Glendale,CA,California
+91207,Glendale,CA,California
+91208,Glendale,CA,California
+91210,Glendale,CA,California
+91214,La Crescenta,CA,California
+91301,Agoura Hills,CA,California
+91302,Calabasas,CA,California
+91303,Canoga Park,CA,California
+91304,Canoga Park,CA,California
+91306,Winnetka,CA,California
+91307,West Hills,CA,California
+91311,Chatsworth,CA,California
+91316,Encino,CA,California
+91320,Newbury Park,CA,California
+91321,Newhall,CA,California
+91324,Northridge,CA,California
+91325,Northridge,CA,California
+91326,Porter Ranch,CA,California
+91330,Northridge,CA,California
+91331,Pacoima,CA,California
+91335,Reseda,CA,California
+91340,San Fernando,CA,California
+91342,Sylmar,CA,California
+91343,North Hills,CA,California
+91344,Granada Hills,CA,California
+91345,Mission Hills,CA,California
+91350,Santa Clarita,CA,California
+91351,Canyon Country,CA,California
+91352,Sun Valley,CA,California
+91354,Valencia,CA,California
+91355,Valencia,CA,California
+91356,Tarzana,CA,California
+91360,Thousand Oaks,CA,California
+91361,Westlake Village,CA,California
+91362,Thousand Oaks,CA,California
+91364,Woodland Hills,CA,California
+91367,Woodland Hills,CA,California
+91371,Woodland Hills,CA,California
+91377,Oak Park,CA,California
+91381,Stevenson Ranch,CA,California
+91384,Castaic,CA,California
+91387,Canyon Country,CA,California
+91390,Santa Clarita,CA,California
+91401,Van Nuys,CA,California
+91402,Panorama City,CA,California
+91403,Sherman Oaks,CA,California
+91405,Van Nuys,CA,California
+91406,Van Nuys,CA,California
+91411,Van Nuys,CA,California
+91423,Sherman Oaks,CA,California
+91436,Encino,CA,California
+91501,Burbank,CA,California
+91502,Burbank,CA,California
+91504,Burbank,CA,California
+91505,Burbank,CA,California
+91506,Burbank,CA,California
+91601,North Hollywood,CA,California
+91602,North Hollywood,CA,California
+91604,Studio City,CA,California
+91605,North Hollywood,CA,California
+91606,North Hollywood,CA,California
+91607,Valley Village,CA,California
+91608,Universal City,CA,California
+91701,Rancho Cucamonga,CA,California
+91702,Azusa,CA,California
+91706,Baldwin Park,CA,California
+91708,Chino,CA,California
+91709,Chino Hills,CA,California
+91710,Chino,CA,California
+91711,Claremont,CA,California
+91722,Covina,CA,California
+91723,Covina,CA,California
+91724,Covina,CA,California
+91730,Rancho Cucamonga,CA,California
+91731,El Monte,CA,California
+91732,El Monte,CA,California
+91733,South El Monte,CA,California
+91737,Rancho Cucamonga,CA,California
+91739,Rancho Cucamonga,CA,California
+91740,Glendora,CA,California
+91741,Glendora,CA,California
+91744,La Puente,CA,California
+91745,Hacienda Heights,CA,California
+91746,La Puente,CA,California
+91748,Rowland Heights,CA,California
+91750,La Verne,CA,California
+91752,Mira Loma,CA,California
+91754,Monterey Park,CA,California
+91755,Monterey Park,CA,California
+91759,Mt Baldy,CA,California
+91761,Ontario,CA,California
+91762,Ontario,CA,California
+91763,Montclair,CA,California
+91764,Ontario,CA,California
+91765,Diamond Bar,CA,California
+91766,Pomona,CA,California
+91767,Pomona,CA,California
+91768,Pomona,CA,California
+91770,Rosemead,CA,California
+91773,San Dimas,CA,California
+91775,San Gabriel,CA,California
+91776,San Gabriel,CA,California
+91780,Temple City,CA,California
+91784,Upland,CA,California
+91786,Upland,CA,California
+91789,Walnut,CA,California
+91790,West Covina,CA,California
+91791,West Covina,CA,California
+91792,West Covina,CA,California
+91801,Alhambra,CA,California
+91803,Alhambra,CA,California
+91901,Alpine,CA,California
+91902,Bonita,CA,California
+91905,Boulevard,CA,California
+91906,Campo,CA,California
+91910,Chula Vista,CA,California
+91911,Chula Vista,CA,California
+91913,Chula Vista,CA,California
+91914,Chula Vista,CA,California
+91915,Chula Vista,CA,California
+91916,Descanso,CA,California
+91917,Dulzura,CA,California
+91931,Guatay,CA,California
+91932,Imperial Beach,CA,California
+91934,Jacumba,CA,California
+91935,Jamul,CA,California
+91941,La Mesa,CA,California
+91942,La Mesa,CA,California
+91945,Lemon Grove,CA,California
+91948,Mount Laguna,CA,California
+91950,National City,CA,California
+91962,Pine Valley,CA,California
+91963,Potrero,CA,California
+91977,Spring Valley,CA,California
+91978,Spring Valley,CA,California
+91980,Tecate,CA,California
+92003,Bonsall,CA,California
+92004,Borrego Springs,CA,California
+92007,Cardiff By The Sea,CA,California
+92008,Carlsbad,CA,California
+92009,Carlsbad,CA,California
+92010,Carlsbad,CA,California
+92011,Carlsbad,CA,California
+92014,Del Mar,CA,California
+92019,El Cajon,CA,California
+92020,El Cajon,CA,California
+92021,El Cajon,CA,California
+92024,Encinitas,CA,California
+92025,Escondido,CA,California
+92026,Escondido,CA,California
+92027,Escondido,CA,California
+92028,Fallbrook,CA,California
+92029,Escondido,CA,California
+92036,Julian,CA,California
+92037,La Jolla,CA,California
+92040,Lakeside,CA,California
+92054,Oceanside,CA,California
+92055,Camp Pendleton,CA,California
+92056,Oceanside,CA,California
+92057,Oceanside,CA,California
+92058,Oceanside,CA,California
+92059,Pala,CA,California
+92060,Palomar Mountain,CA,California
+92061,Pauma Valley,CA,California
+92064,Poway,CA,California
+92065,Ramona,CA,California
+92066,Ranchita,CA,California
+92067,Rancho Santa Fe,CA,California
+92069,San Marcos,CA,California
+92070,Santa Ysabel,CA,California
+92071,Santee,CA,California
+92075,Solana Beach,CA,California
+92078,San Marcos,CA,California
+92081,Vista,CA,California
+92082,Valley Center,CA,California
+92083,Vista,CA,California
+92084,Vista,CA,California
+92086,Warner Springs,CA,California
+92091,Rancho Santa Fe,CA,California
+92101,San Diego,CA,California
+92102,San Diego,CA,California
+92103,San Diego,CA,California
+92104,San Diego,CA,California
+92105,San Diego,CA,California
+92106,San Diego,CA,California
+92107,San Diego,CA,California
+92108,San Diego,CA,California
+92109,San Diego,CA,California
+92110,San Diego,CA,California
+92111,San Diego,CA,California
+92113,San Diego,CA,California
+92114,San Diego,CA,California
+92115,San Diego,CA,California
+92116,San Diego,CA,California
+92117,San Diego,CA,California
+92118,Coronado,CA,California
+92119,San Diego,CA,California
+92120,San Diego,CA,California
+92121,San Diego,CA,California
+92122,San Diego,CA,California
+92123,San Diego,CA,California
+92124,San Diego,CA,California
+92126,San Diego,CA,California
+92127,San Diego,CA,California
+92128,San Diego,CA,California
+92129,San Diego,CA,California
+92130,San Diego,CA,California
+92131,San Diego,CA,California
+92132,San Diego,CA,California
+92134,San Diego,CA,California
+92135,San Diego,CA,California
+92139,San Diego,CA,California
+92140,San Diego,CA,California
+92145,San Diego,CA,California
+92147,San Diego,CA,California
+92154,San Diego,CA,California
+92155,San Diego,CA,California
+92173,San Ysidro,CA,California
+92201,Indio,CA,California
+92203,Indio,CA,California
+92210,Indian Wells,CA,California
+92211,Palm Desert,CA,California
+92220,Banning,CA,California
+92222,Bard,CA,California
+92223,Beaumont,CA,California
+92225,Blythe,CA,California
+92227,Brawley,CA,California
+92230,Cabazon,CA,California
+92231,Calexico,CA,California
+92233,Calipatria,CA,California
+92234,Cathedral City,CA,California
+92236,Coachella,CA,California
+92239,Desert Center,CA,California
+92240,Desert Hot Springs,CA,California
+92241,Desert Hot Springs,CA,California
+92242,Earp,CA,California
+92243,El Centro,CA,California
+92249,Heber,CA,California
+92250,Holtville,CA,California
+92251,Imperial,CA,California
+92252,Joshua Tree,CA,California
+92253,La Quinta,CA,California
+92254,Mecca,CA,California
+92256,Morongo Valley,CA,California
+92257,Niland,CA,California
+92258,North Palm Springs,CA,California
+92259,Ocotillo,CA,California
+92260,Palm Desert,CA,California
+92262,Palm Springs,CA,California
+92264,Palm Springs,CA,California
+92266,Palo Verde,CA,California
+92267,Parker Dam,CA,California
+92268,Pioneertown,CA,California
+92270,Rancho Mirage,CA,California
+92273,Seeley,CA,California
+92274,Thermal,CA,California
+92275,Salton City,CA,California
+92276,Thousand Palms,CA,California
+92277,Twentynine Palms,CA,California
+92278,Twentynine Palms,CA,California
+92280,Vidal,CA,California
+92281,Westmorland,CA,California
+92282,Whitewater,CA,California
+92283,Winterhaven,CA,California
+92284,Yucca Valley,CA,California
+92285,Landers,CA,California
+92301,Adelanto,CA,California
+92304,Amboy,CA,California
+92305,Angelus Oaks,CA,California
+92307,Apple Valley,CA,California
+92308,Apple Valley,CA,California
+92309,Baker,CA,California
+92310,Fort Irwin,CA,California
+92311,Barstow,CA,California
+92313,Grand Terrace,CA,California
+92314,Big Bear City,CA,California
+92315,Big Bear Lake,CA,California
+92316,Bloomington,CA,California
+92320,Calimesa,CA,California
+92321,Cedar Glen,CA,California
+92322,Cedarpines Park,CA,California
+92324,Colton,CA,California
+92325,Crestline,CA,California
+92327,Daggett,CA,California
+92328,Death Valley,CA,California
+92332,Essex,CA,California
+92333,Fawnskin,CA,California
+92335,Fontana,CA,California
+92336,Fontana,CA,California
+92337,Fontana,CA,California
+92338,Ludlow,CA,California
+92339,Forest Falls,CA,California
+92341,Green Valley Lake,CA,California
+92342,Helendale,CA,California
+92344,Hesperia,CA,California
+92345,Hesperia,CA,California
+92346,Highland,CA,California
+92347,Hinkley,CA,California
+92352,Lake Arrowhead,CA,California
+92354,Loma Linda,CA,California
+92356,Lucerne Valley,CA,California
+92358,Lytle Creek,CA,California
+92359,Mentone,CA,California
+92363,Needles,CA,California
+92364,Nipton,CA,California
+92365,Newberry Springs,CA,California
+92368,Oro Grande,CA,California
+92371,Phelan,CA,California
+92372,Pinon Hills,CA,California
+92373,Redlands,CA,California
+92374,Redlands,CA,California
+92376,Rialto,CA,California
+92377,Rialto,CA,California
+92378,Rimforest,CA,California
+92382,Running Springs,CA,California
+92384,Shoshone,CA,California
+92385,Skyforest,CA,California
+92386,Sugarloaf,CA,California
+92389,Tecopa,CA,California
+92391,Twin Peaks,CA,California
+92392,Victorville,CA,California
+92394,Victorville,CA,California
+92395,Victorville,CA,California
+92397,Wrightwood,CA,California
+92398,Yermo,CA,California
+92399,Yucaipa,CA,California
+92401,San Bernardino,CA,California
+92404,San Bernardino,CA,California
+92405,San Bernardino,CA,California
+92407,San Bernardino,CA,California
+92408,San Bernardino,CA,California
+92410,San Bernardino,CA,California
+92411,San Bernardino,CA,California
+92501,Riverside,CA,California
+92503,Riverside,CA,California
+92504,Riverside,CA,California
+92505,Riverside,CA,California
+92506,Riverside,CA,California
+92507,Riverside,CA,California
+92508,Riverside,CA,California
+92509,Jurupa Valley,CA,California
+92518,March Air Reserve Base,CA,California
+92530,Lake Elsinore,CA,California
+92532,Lake Elsinore,CA,California
+92536,Aguanga,CA,California
+92539,Anza,CA,California
+92543,Hemet,CA,California
+92544,Hemet,CA,California
+92545,Hemet,CA,California
+92548,Homeland,CA,California
+92549,Idyllwild,CA,California
+92551,Moreno Valley,CA,California
+92553,Moreno Valley,CA,California
+92555,Moreno Valley,CA,California
+92557,Moreno Valley,CA,California
+92561,Mountain Center,CA,California
+92562,Murrieta,CA,California
+92563,Murrieta,CA,California
+92567,Nuevo,CA,California
+92570,Perris,CA,California
+92571,Perris,CA,California
+92582,San Jacinto,CA,California
+92583,San Jacinto,CA,California
+92584,Menifee,CA,California
+92585,Menifee,CA,California
+92586,Menifee,CA,California
+92587,Menifee,CA,California
+92590,Temecula,CA,California
+92591,Temecula,CA,California
+92592,Temecula,CA,California
+92595,Wildomar,CA,California
+92596,Winchester,CA,California
+92602,Irvine,CA,California
+92603,Irvine,CA,California
+92604,Irvine,CA,California
+92606,Irvine,CA,California
+92610,Foothill Ranch,CA,California
+92612,Irvine,CA,California
+92614,Irvine,CA,California
+92617,Irvine,CA,California
+92618,Irvine,CA,California
+92620,Irvine,CA,California
+92624,Capistrano Beach,CA,California
+92625,Corona Del Mar,CA,California
+92626,Costa Mesa,CA,California
+92627,Costa Mesa,CA,California
+92629,Dana Point,CA,California
+92630,Lake Forest,CA,California
+92637,Laguna Woods,CA,California
+92646,Huntington Beach,CA,California
+92647,Huntington Beach,CA,California
+92648,Huntington Beach,CA,California
+92649,Huntington Beach,CA,California
+92651,Laguna Beach,CA,California
+92653,Laguna Hills,CA,California
+92655,Midway City,CA,California
+92656,Aliso Viejo,CA,California
+92657,Newport Coast,CA,California
+92660,Newport Beach,CA,California
+92661,Newport Beach,CA,California
+92662,Newport Beach,CA,California
+92663,Newport Beach,CA,California
+92672,San Clemente,CA,California
+92673,San Clemente,CA,California
+92675,San Juan Capistrano,CA,California
+92676,Silverado,CA,California
+92677,Laguna Niguel,CA,California
+92678,Trabuco Canyon,CA,California
+92679,Trabuco Canyon,CA,California
+92683,Westminster,CA,California
+92688,Rancho Santa Margarita,CA,California
+92691,Mission Viejo,CA,California
+92692,Mission Viejo,CA,California
+92694,Ladera Ranch,CA,California
+92701,Santa Ana,CA,California
+92703,Santa Ana,CA,California
+92704,Santa Ana,CA,California
+92705,Santa Ana,CA,California
+92706,Santa Ana,CA,California
+92707,Santa Ana,CA,California
+92708,Fountain Valley,CA,California
+92780,Tustin,CA,California
+92782,Tustin,CA,California
+92801,Anaheim,CA,California
+92802,Anaheim,CA,California
+92804,Anaheim,CA,California
+92805,Anaheim,CA,California
+92806,Anaheim,CA,California
+92807,Anaheim,CA,California
+92808,Anaheim,CA,California
+92821,Brea,CA,California
+92823,Brea,CA,California
+92831,Fullerton,CA,California
+92832,Fullerton,CA,California
+92833,Fullerton,CA,California
+92835,Fullerton,CA,California
+92840,Garden Grove,CA,California
+92841,Garden Grove,CA,California
+92843,Garden Grove,CA,California
+92844,Garden Grove,CA,California
+92845,Garden Grove,CA,California
+92860,Norco,CA,California
+92861,Villa Park,CA,California
+92865,Orange,CA,California
+92866,Orange,CA,California
+92867,Orange,CA,California
+92868,Orange,CA,California
+92869,Orange,CA,California
+92870,Placentia,CA,California
+92879,Corona,CA,California
+92880,Corona,CA,California
+92881,Corona,CA,California
+92882,Corona,CA,California
+92883,Corona,CA,California
+92886,Yorba Linda,CA,California
+92887,Yorba Linda,CA,California
+93001,Ventura,CA,California
+93003,Ventura,CA,California
+93004,Ventura,CA,California
+93010,Camarillo,CA,California
+93012,Camarillo,CA,California
+93013,Carpinteria,CA,California
+93015,Fillmore,CA,California
+93021,Moorpark,CA,California
+93022,Oak View,CA,California
+93023,Ojai,CA,California
+93030,Oxnard,CA,California
+93033,Oxnard,CA,California
+93035,Oxnard,CA,California
+93036,Oxnard,CA,California
+93040,Piru,CA,California
+93041,Port Hueneme,CA,California
+93042,Point Mugu Nawc,CA,California
+93043,Port Hueneme Cbc Base,CA,California
+93060,Santa Paula,CA,California
+93063,Simi Valley,CA,California
+93064,Brandeis,CA,California
+93065,Simi Valley,CA,California
+93066,Somis,CA,California
+93067,Summerland,CA,California
+93101,Santa Barbara,CA,California
+93103,Santa Barbara,CA,California
+93105,Santa Barbara,CA,California
+93108,Santa Barbara,CA,California
+93109,Santa Barbara,CA,California
+93110,Santa Barbara,CA,California
+93111,Santa Barbara,CA,California
+93117,Goleta,CA,California
+93201,Alpaugh,CA,California
+93202,Armona,CA,California
+93203,Arvin,CA,California
+93204,Avenal,CA,California
+93205,Bodfish,CA,California
+93206,Buttonwillow,CA,California
+93207,California Hot Springs,CA,California
+93208,Camp Nelson,CA,California
+93210,Coalinga,CA,California
+93212,Corcoran,CA,California
+93215,Delano,CA,California
+93218,Ducor,CA,California
+93219,Earlimart,CA,California
+93220,Edison,CA,California
+93221,Exeter,CA,California
+93222,Pine Mountain Club,CA,California
+93223,Farmersville,CA,California
+93224,Fellows,CA,California
+93225,Frazier Park,CA,California
+93226,Glennville,CA,California
+93230,Hanford,CA,California
+93234,Huron,CA,California
+93235,Ivanhoe,CA,California
+93238,Kernville,CA,California
+93239,Kettleman City,CA,California
+93240,Lake Isabella,CA,California
+93241,Lamont,CA,California
+93242,Laton,CA,California
+93243,Lebec,CA,California
+93244,Lemon Cove,CA,California
+93245,Lemoore,CA,California
+93247,Lindsay,CA,California
+93249,Lost Hills,CA,California
+93250,McFarland,CA,California
+93251,McKittrick,CA,California
+93252,Maricopa,CA,California
+93254,New Cuyama,CA,California
+93255,Onyx,CA,California
+93256,Pixley,CA,California
+93257,Porterville,CA,California
+93258,Porterville,CA,California
+93260,Posey,CA,California
+93261,Richgrove,CA,California
+93262,Sequoia National Park,CA,California
+93263,Shafter,CA,California
+93265,Springville,CA,California
+93266,Stratford,CA,California
+93267,Strathmore,CA,California
+93268,Taft,CA,California
+93270,Terra Bella,CA,California
+93271,Three Rivers,CA,California
+93272,Tipton,CA,California
+93274,Tulare,CA,California
+93276,Tupman,CA,California
+93277,Visalia,CA,California
+93280,Wasco,CA,California
+93283,Weldon,CA,California
+93285,Wofford Heights,CA,California
+93286,Woodlake,CA,California
+93287,Woody,CA,California
+93291,Visalia,CA,California
+93292,Visalia,CA,California
+93301,Bakersfield,CA,California
+93304,Bakersfield,CA,California
+93305,Bakersfield,CA,California
+93306,Bakersfield,CA,California
+93307,Bakersfield,CA,California
+93308,Bakersfield,CA,California
+93309,Bakersfield,CA,California
+93311,Bakersfield,CA,California
+93312,Bakersfield,CA,California
+93313,Bakersfield,CA,California
+93314,Bakersfield,CA,California
+93401,San Luis Obispo,CA,California
+93402,Los Osos,CA,California
+93405,San Luis Obispo,CA,California
+93410,San Luis Obispo,CA,California
+93420,Arroyo Grande,CA,California
+93422,Atascadero,CA,California
+93424,Avila Beach,CA,California
+93426,Bradley,CA,California
+93427,Buellton,CA,California
+93428,Cambria,CA,California
+93429,Casmalia,CA,California
+93430,Cayucos,CA,California
+93432,Creston,CA,California
+93433,Grover Beach,CA,California
+93434,Guadalupe,CA,California
+93436,Lompoc,CA,California
+93437,Lompoc,CA,California
+93440,Los Alamos,CA,California
+93441,Los Olivos,CA,California
+93442,Morro Bay,CA,California
+93444,Nipomo,CA,California
+93445,Oceano,CA,California
+93446,Paso Robles,CA,California
+93449,Pismo Beach,CA,California
+93450,San Ardo,CA,California
+93451,San Miguel,CA,California
+93452,San Simeon,CA,California
+93453,Santa Margarita,CA,California
+93454,Santa Maria,CA,California
+93455,Santa Maria,CA,California
+93458,Santa Maria,CA,California
+93460,Santa Ynez,CA,California
+93461,Shandon,CA,California
+93463,Solvang,CA,California
+93465,Templeton,CA,California
+93501,Mojave,CA,California
+93505,California City,CA,California
+93510,Acton,CA,California
+93512,Benton,CA,California
+93513,Big Pine,CA,California
+93514,Bishop,CA,California
+93516,Boron,CA,California
+93517,Bridgeport,CA,California
+93518,Caliente,CA,California
+93519,Cantil,CA,California
+93522,Darwin,CA,California
+93523,Edwards,CA,California
+93524,Edwards,CA,California
+93526,Independence,CA,California
+93527,Inyokern,CA,California
+93528,Johannesburg,CA,California
+93529,June Lake,CA,California
+93530,Keeler,CA,California
+93531,Keene,CA,California
+93532,Lake Hughes,CA,California
+93534,Lancaster,CA,California
+93535,Lancaster,CA,California
+93536,Lancaster,CA,California
+93541,Lee Vining,CA,California
+93543,Littlerock,CA,California
+93544,Llano,CA,California
+93545,Lone Pine,CA,California
+93546,Mammoth Lakes,CA,California
+93549,Olancha,CA,California
+93550,Palmdale,CA,California
+93551,Palmdale,CA,California
+93552,Palmdale,CA,California
+93553,Pearblossom,CA,California
+93554,Randsburg,CA,California
+93555,Ridgecrest,CA,California
+93558,Red Mountain,CA,California
+93560,Rosamond,CA,California
+93561,Tehachapi,CA,California
+93562,Trona,CA,California
+93563,Valyermo,CA,California
+93591,Palmdale,CA,California
+93592,Trona,CA,California
+93601,Ahwahnee,CA,California
+93602,Auberry,CA,California
+93603,Badger,CA,California
+93604,Bass Lake,CA,California
+93605,Big Creek,CA,California
+93606,Biola,CA,California
+93608,Cantua Creek,CA,California
+93609,Caruthers,CA,California
+93610,Chowchilla,CA,California
+93611,Clovis,CA,California
+93612,Clovis,CA,California
+93614,Coarsegold,CA,California
+93615,Cutler,CA,California
+93616,Del Rey,CA,California
+93618,Dinuba,CA,California
+93619,Clovis,CA,California
+93620,Dos Palos,CA,California
+93621,Dunlap,CA,California
+93622,Firebaugh,CA,California
+93623,Fish Camp,CA,California
+93624,Five Points,CA,California
+93625,Fowler,CA,California
+93626,Friant,CA,California
+93627,Helm,CA,California
+93628,Hume,CA,California
+93630,Kerman,CA,California
+93631,Kingsburg,CA,California
+93633,Kings Canyon National Pk,CA,California
+93634,Lakeshore,CA,California
+93635,Los Banos,CA,California
+93636,Madera,CA,California
+93637,Madera,CA,California
+93638,Madera,CA,California
+93640,Mendota,CA,California
+93641,Miramonte,CA,California
+93643,North Fork,CA,California
+93644,Oakhurst,CA,California
+93645,O'Neals,CA,California
+93646,Orange Cove,CA,California
+93647,Orosi,CA,California
+93648,Parlier,CA,California
+93650,Fresno,CA,California
+93651,Prather,CA,California
+93652,Raisin City,CA,California
+93653,Raymond,CA,California
+93654,Reedley,CA,California
+93656,Riverdale,CA,California
+93657,Sanger,CA,California
+93660,San Joaquin,CA,California
+93662,Selma,CA,California
+93664,Shaver Lake,CA,California
+93665,South Dos Palos,CA,California
+93666,Sultana,CA,California
+93667,Tollhouse,CA,California
+93668,Tranquillity,CA,California
+93669,Wishon,CA,California
+93673,Traver,CA,California
+93675,Squaw Valley,CA,California
+93701,Fresno,CA,California
+93702,Fresno,CA,California
+93703,Fresno,CA,California
+93704,Fresno,CA,California
+93705,Fresno,CA,California
+93706,Fresno,CA,California
+93710,Fresno,CA,California
+93711,Fresno,CA,California
+93720,Fresno,CA,California
+93721,Fresno,CA,California
+93722,Fresno,CA,California
+93723,Fresno,CA,California
+93725,Fresno,CA,California
+93726,Fresno,CA,California
+93727,Fresno,CA,California
+93728,Fresno,CA,California
+93730,Fresno,CA,California
+93901,Salinas,CA,California
+93905,Salinas,CA,California
+93906,Salinas,CA,California
+93907,Salinas,CA,California
+93908,Salinas,CA,California
+93920,Big Sur,CA,California
+93921,Carmel By The Sea,CA,California
+93923,Carmel,CA,California
+93924,Carmel Valley,CA,California
+93925,Chualar,CA,California
+93926,Gonzales,CA,California
+93927,Greenfield,CA,California
+93928,Jolon,CA,California
+93930,King City,CA,California
+93932,Lockwood,CA,California
+93933,Marina,CA,California
+93940,Monterey,CA,California
+93943,Monterey,CA,California
+93950,Pacific Grove,CA,California
+93953,Pebble Beach,CA,California
+93954,San Lucas,CA,California
+93955,Seaside,CA,California
+93960,Soledad,CA,California
+93962,Spreckels,CA,California
+94002,Belmont,CA,California
+94005,Brisbane,CA,California
+94010,Burlingame,CA,California
+94014,Daly City,CA,California
+94015,Daly City,CA,California
+94019,Half Moon Bay,CA,California
+94020,La Honda,CA,California
+94021,Loma Mar,CA,California
+94022,Los Altos,CA,California
+94024,Los Altos,CA,California
+94025,Menlo Park,CA,California
+94027,Atherton,CA,California
+94028,Portola Valley,CA,California
+94030,Millbrae,CA,California
+94037,Montara,CA,California
+94038,Moss Beach,CA,California
+94040,Mountain View,CA,California
+94041,Mountain View,CA,California
+94043,Mountain View,CA,California
+94044,Pacifica,CA,California
+94060,Pescadero,CA,California
+94061,Redwood City,CA,California
+94062,Redwood City,CA,California
+94063,Redwood City,CA,California
+94065,Redwood City,CA,California
+94066,San Bruno,CA,California
+94070,San Carlos,CA,California
+94074,San Gregorio,CA,California
+94080,South San Francisco,CA,California
+94085,Sunnyvale,CA,California
+94086,Sunnyvale,CA,California
+94087,Sunnyvale,CA,California
+94089,Sunnyvale,CA,California
+94102,San Francisco,CA,California
+94103,San Francisco,CA,California
+94104,San Francisco,CA,California
+94105,San Francisco,CA,California
+94107,San Francisco,CA,California
+94108,San Francisco,CA,California
+94109,San Francisco,CA,California
+94110,San Francisco,CA,California
+94111,San Francisco,CA,California
+94112,San Francisco,CA,California
+94114,San Francisco,CA,California
+94115,San Francisco,CA,California
+94116,San Francisco,CA,California
+94117,San Francisco,CA,California
+94118,San Francisco,CA,California
+94121,San Francisco,CA,California
+94122,San Francisco,CA,California
+94123,San Francisco,CA,California
+94124,San Francisco,CA,California
+94127,San Francisco,CA,California
+94128,San Francisco,CA,California
+94129,San Francisco,CA,California
+94130,San Francisco,CA,California
+94131,San Francisco,CA,California
+94132,San Francisco,CA,California
+94133,San Francisco,CA,California
+94134,San Francisco,CA,California
+94158,San Francisco,CA,California
+94301,Palo Alto,CA,California
+94303,Palo Alto,CA,California
+94304,Palo Alto,CA,California
+94305,Stanford,CA,California
+94306,Palo Alto,CA,California
+94401,San Mateo,CA,California
+94402,San Mateo,CA,California
+94403,San Mateo,CA,California
+94404,San Mateo,CA,California
+94501,Alameda,CA,California
+94502,Alameda,CA,California
+94503,American Canyon,CA,California
+94505,Discovery Bay,CA,California
+94506,Danville,CA,California
+94507,Alamo,CA,California
+94508,Angwin,CA,California
+94509,Antioch,CA,California
+94510,Benicia,CA,California
+94511,Bethel Island,CA,California
+94512,Birds Landing,CA,California
+94513,Brentwood,CA,California
+94514,Byron,CA,California
+94515,Calistoga,CA,California
+94516,Canyon,CA,California
+94517,Clayton,CA,California
+94518,Concord,CA,California
+94519,Concord,CA,California
+94520,Concord,CA,California
+94521,Concord,CA,California
+94523,Pleasant Hill,CA,California
+94525,Crockett,CA,California
+94526,Danville,CA,California
+94528,Diablo,CA,California
+94530,El Cerrito,CA,California
+94531,Antioch,CA,California
+94533,Fairfield,CA,California
+94534,Fairfield,CA,California
+94535,Travis Afb,CA,California
+94536,Fremont,CA,California
+94538,Fremont,CA,California
+94539,Fremont,CA,California
+94541,Hayward,CA,California
+94542,Hayward,CA,California
+94544,Hayward,CA,California
+94545,Hayward,CA,California
+94546,Castro Valley,CA,California
+94547,Hercules,CA,California
+94548,Knightsen,CA,California
+94549,Lafayette,CA,California
+94550,Livermore,CA,California
+94551,Livermore,CA,California
+94552,Castro Valley,CA,California
+94553,Martinez,CA,California
+94555,Fremont,CA,California
+94556,Moraga,CA,California
+94558,Napa,CA,California
+94559,Napa,CA,California
+94560,Newark,CA,California
+94561,Oakley,CA,California
+94563,Orinda,CA,California
+94564,Pinole,CA,California
+94565,Pittsburg,CA,California
+94566,Pleasanton,CA,California
+94567,Pope Valley,CA,California
+94568,Dublin,CA,California
+94569,Port Costa,CA,California
+94571,Rio Vista,CA,California
+94572,Rodeo,CA,California
+94573,Rutherford,CA,California
+94574,Saint Helena,CA,California
+94575,Moraga,CA,California
+94576,Deer Park,CA,California
+94577,San Leandro,CA,California
+94578,San Leandro,CA,California
+94579,San Leandro,CA,California
+94580,San Lorenzo,CA,California
+94582,San Ramon,CA,California
+94583,San Ramon,CA,California
+94585,Suisun City,CA,California
+94586,Sunol,CA,California
+94587,Union City,CA,California
+94588,Pleasanton,CA,California
+94589,Vallejo,CA,California
+94590,Vallejo,CA,California
+94591,Vallejo,CA,California
+94592,Vallejo,CA,California
+94595,Walnut Creek,CA,California
+94596,Walnut Creek,CA,California
+94597,Walnut Creek,CA,California
+94598,Walnut Creek,CA,California
+94599,Yountville,CA,California
+94601,Oakland,CA,California
+94602,Oakland,CA,California
+94603,Oakland,CA,California
+94605,Oakland,CA,California
+94606,Oakland,CA,California
+94607,Oakland,CA,California
+94608,Emeryville,CA,California
+94609,Oakland,CA,California
+94610,Oakland,CA,California
+94611,Oakland,CA,California
+94612,Oakland,CA,California
+94613,Oakland,CA,California
+94618,Oakland,CA,California
+94619,Oakland,CA,California
+94621,Oakland,CA,California
+94702,Berkeley,CA,California
+94703,Berkeley,CA,California
+94704,Berkeley,CA,California
+94705,Berkeley,CA,California
+94706,Albany,CA,California
+94707,Berkeley,CA,California
+94708,Berkeley,CA,California
+94709,Berkeley,CA,California
+94710,Berkeley,CA,California
+94720,Berkeley,CA,California
+94801,Richmond,CA,California
+94803,El Sobrante,CA,California
+94804,Richmond,CA,California
+94805,Richmond,CA,California
+94806,San Pablo,CA,California
+94850,Richmond,CA,California
+94901,San Rafael,CA,California
+94903,San Rafael,CA,California
+94904,Greenbrae,CA,California
+94920,Belvedere Tiburon,CA,California
+94922,Bodega,CA,California
+94923,Bodega Bay,CA,California
+94924,Bolinas,CA,California
+94925,Corte Madera,CA,California
+94928,Rohnert Park,CA,California
+94929,Dillon Beach,CA,California
+94930,Fairfax,CA,California
+94931,Cotati,CA,California
+94933,Forest Knolls,CA,California
+94937,Inverness,CA,California
+94938,Lagunitas,CA,California
+94939,Larkspur,CA,California
+94940,Marshall,CA,California
+94941,Mill Valley,CA,California
+94945,Novato,CA,California
+94946,Nicasio,CA,California
+94947,Novato,CA,California
+94949,Novato,CA,California
+94950,Olema,CA,California
+94951,Penngrove,CA,California
+94952,Petaluma,CA,California
+94954,Petaluma,CA,California
+94956,Point Reyes Station,CA,California
+94957,Ross,CA,California
+94960,San Anselmo,CA,California
+94963,San Geronimo,CA,California
+94964,San Quentin,CA,California
+94965,Sausalito,CA,California
+94970,Stinson Beach,CA,California
+94971,Tomales,CA,California
+94972,Valley Ford,CA,California
+94973,Woodacre,CA,California
+95002,Alviso,CA,California
+95003,Aptos,CA,California
+95004,Aromas,CA,California
+95005,Ben Lomond,CA,California
+95006,Boulder Creek,CA,California
+95007,Brookdale,CA,California
+95008,Campbell,CA,California
+95010,Capitola,CA,California
+95012,Castroville,CA,California
+95013,Coyote,CA,California
+95014,Cupertino,CA,California
+95017,Davenport,CA,California
+95018,Felton,CA,California
+95019,Freedom,CA,California
+95020,Gilroy,CA,California
+95023,Hollister,CA,California
+95030,Los Gatos,CA,California
+95032,Los Gatos,CA,California
+95033,Los Gatos,CA,California
+95035,Milpitas,CA,California
+95037,Morgan Hill,CA,California
+95039,Moss Landing,CA,California
+95041,Mount Hermon,CA,California
+95043,Paicines,CA,California
+95045,San Juan Bautista,CA,California
+95046,San Martin,CA,California
+95050,Santa Clara,CA,California
+95051,Santa Clara,CA,California
+95053,Santa Clara,CA,California
+95054,Santa Clara,CA,California
+95060,Santa Cruz,CA,California
+95062,Santa Cruz,CA,California
+95064,Santa Cruz,CA,California
+95065,Santa Cruz,CA,California
+95066,Scotts Valley,CA,California
+95070,Saratoga,CA,California
+95073,Soquel,CA,California
+95075,Tres Pinos,CA,California
+95076,Watsonville,CA,California
+95110,San Jose,CA,California
+95111,San Jose,CA,California
+95112,San Jose,CA,California
+95113,San Jose,CA,California
+95116,San Jose,CA,California
+95117,San Jose,CA,California
+95118,San Jose,CA,California
+95119,San Jose,CA,California
+95120,San Jose,CA,California
+95121,San Jose,CA,California
+95122,San Jose,CA,California
+95123,San Jose,CA,California
+95124,San Jose,CA,California
+95125,San Jose,CA,California
+95126,San Jose,CA,California
+95127,San Jose,CA,California
+95128,San Jose,CA,California
+95129,San Jose,CA,California
+95130,San Jose,CA,California
+95131,San Jose,CA,California
+95132,San Jose,CA,California
+95133,San Jose,CA,California
+95134,San Jose,CA,California
+95135,San Jose,CA,California
+95136,San Jose,CA,California
+95138,San Jose,CA,California
+95139,San Jose,CA,California
+95140,Mount Hamilton,CA,California
+95148,San Jose,CA,California
+95202,Stockton,CA,California
+95203,Stockton,CA,California
+95204,Stockton,CA,California
+95205,Stockton,CA,California
+95206,Stockton,CA,California
+95207,Stockton,CA,California
+95209,Stockton,CA,California
+95210,Stockton,CA,California
+95211,Stockton,CA,California
+95212,Stockton,CA,California
+95215,Stockton,CA,California
+95219,Stockton,CA,California
+95220,Acampo,CA,California
+95222,Angels Camp,CA,California
+95223,Arnold,CA,California
+95224,Avery,CA,California
+95225,Burson,CA,California
+95226,Campo Seco,CA,California
+95227,Clements,CA,California
+95228,Copperopolis,CA,California
+95230,Farmington,CA,California
+95231,French Camp,CA,California
+95232,Glencoe,CA,California
+95233,Hathaway Pines,CA,California
+95234,Holt,CA,California
+95236,Linden,CA,California
+95237,Lockeford,CA,California
+95240,Lodi,CA,California
+95242,Lodi,CA,California
+95245,Mokelumne Hill,CA,California
+95246,Mountain Ranch,CA,California
+95247,Murphys,CA,California
+95248,Rail Road Flat,CA,California
+95249,San Andreas,CA,California
+95251,Vallecito,CA,California
+95252,Valley Springs,CA,California
+95254,Wallace,CA,California
+95255,West Point,CA,California
+95257,Wilseyville,CA,California
+95258,Woodbridge,CA,California
+95301,Atwater,CA,California
+95303,Ballico,CA,California
+95304,Tracy,CA,California
+95305,Big Oak Flat,CA,California
+95306,Catheys Valley,CA,California
+95307,Ceres,CA,California
+95310,Columbia,CA,California
+95311,Coulterville,CA,California
+95312,Cressey,CA,California
+95313,Crows Landing,CA,California
+95315,Delhi,CA,California
+95316,Denair,CA,California
+95317,El Nido,CA,California
+95318,El Portal,CA,California
+95319,Empire,CA,California
+95320,Escalon,CA,California
+95321,Groveland,CA,California
+95322,Gustine,CA,California
+95323,Hickman,CA,California
+95324,Hilmar,CA,California
+95325,Hornitos,CA,California
+95326,Hughson,CA,California
+95327,Jamestown,CA,California
+95328,Keyes,CA,California
+95329,La Grange,CA,California
+95330,Lathrop,CA,California
+95333,Le Grand,CA,California
+95334,Livingston,CA,California
+95335,Long Barn,CA,California
+95336,Manteca,CA,California
+95337,Manteca,CA,California
+95338,Mariposa,CA,California
+95340,Merced,CA,California
+95341,Merced,CA,California
+95345,Midpines,CA,California
+95346,Mi Wuk Village,CA,California
+95348,Merced,CA,California
+95350,Modesto,CA,California
+95351,Modesto,CA,California
+95354,Modesto,CA,California
+95355,Modesto,CA,California
+95356,Modesto,CA,California
+95357,Modesto,CA,California
+95358,Modesto,CA,California
+95360,Newman,CA,California
+95361,Oakdale,CA,California
+95363,Patterson,CA,California
+95364,Pinecrest,CA,California
+95365,Planada,CA,California
+95366,Ripon,CA,California
+95367,Riverbank,CA,California
+95368,Salida,CA,California
+95369,Snelling,CA,California
+95370,Sonora,CA,California
+95372,Soulsbyville,CA,California
+95374,Stevinson,CA,California
+95375,Strawberry,CA,California
+95376,Tracy,CA,California
+95377,Tracy,CA,California
+95379,Tuolumne,CA,California
+95380,Turlock,CA,California
+95382,Turlock,CA,California
+95383,Twain Harte,CA,California
+95385,Vernalis,CA,California
+95386,Waterford,CA,California
+95387,Westley,CA,California
+95388,Winton,CA,California
+95389,Yosemite National Park,CA,California
+95391,Tracy,CA,California
+95401,Santa Rosa,CA,California
+95403,Santa Rosa,CA,California
+95404,Santa Rosa,CA,California
+95405,Santa Rosa,CA,California
+95407,Santa Rosa,CA,California
+95409,Santa Rosa,CA,California
+95410,Albion,CA,California
+95412,Annapolis,CA,California
+95415,Boonville,CA,California
+95417,Branscomb,CA,California
+95420,Caspar,CA,California
+95421,Cazadero,CA,California
+95422,Clearlake,CA,California
+95423,Clearlake Oaks,CA,California
+95425,Cloverdale,CA,California
+95426,Cobb,CA,California
+95427,Comptche,CA,California
+95428,Covelo,CA,California
+95429,Dos Rios,CA,California
+95430,Duncans Mills,CA,California
+95431,Eldridge,CA,California
+95432,Elk,CA,California
+95435,Finley,CA,California
+95436,Forestville,CA,California
+95437,Fort Bragg,CA,California
+95439,Fulton,CA,California
+95441,Geyserville,CA,California
+95442,Glen Ellen,CA,California
+95443,Glenhaven,CA,California
+95444,Graton,CA,California
+95445,Gualala,CA,California
+95446,Guerneville,CA,California
+95448,Healdsburg,CA,California
+95449,Hopland,CA,California
+95450,Jenner,CA,California
+95451,Kelseyville,CA,California
+95452,Kenwood,CA,California
+95453,Lakeport,CA,California
+95454,Laytonville,CA,California
+95456,Little River,CA,California
+95457,Lower Lake,CA,California
+95458,Lucerne,CA,California
+95459,Manchester,CA,California
+95460,Mendocino,CA,California
+95461,Middletown,CA,California
+95462,Monte Rio,CA,California
+95463,Navarro,CA,California
+95464,Nice,CA,California
+95465,Occidental,CA,California
+95466,Philo,CA,California
+95467,Hidden Valley Lake,CA,California
+95468,Point Arena,CA,California
+95469,Potter Valley,CA,California
+95470,Redwood Valley,CA,California
+95471,Rio Nido,CA,California
+95472,Sebastopol,CA,California
+95476,Sonoma,CA,California
+95482,Ukiah,CA,California
+95485,Upper Lake,CA,California
+95486,Villa Grande,CA,California
+95488,Westport,CA,California
+95490,Willits,CA,California
+95492,Windsor,CA,California
+95493,Witter Springs,CA,California
+95494,Yorkville,CA,California
+95497,The Sea Ranch,CA,California
+95501,Eureka,CA,California
+95503,Eureka,CA,California
+95511,Alderpoint,CA,California
+95514,Blocksburg,CA,California
+95519,Mckinleyville,CA,California
+95521,Arcata,CA,California
+95524,Bayside,CA,California
+95525,Blue Lake,CA,California
+95526,Bridgeville,CA,California
+95527,Burnt Ranch,CA,California
+95528,Carlotta,CA,California
+95531,Crescent City,CA,California
+95536,Ferndale,CA,California
+95537,Fields Landing,CA,California
+95540,Fortuna,CA,California
+95542,Garberville,CA,California
+95543,Gasquet,CA,California
+95545,Honeydew,CA,California
+95546,Hoopa,CA,California
+95547,Hydesville,CA,California
+95548,Klamath,CA,California
+95549,Kneeland,CA,California
+95550,Korbel,CA,California
+95551,Loleta,CA,California
+95552,Mad River,CA,California
+95553,Miranda,CA,California
+95554,Myers Flat,CA,California
+95555,Orick,CA,California
+95556,Orleans,CA,California
+95558,Petrolia,CA,California
+95559,Phillipsville,CA,California
+95560,Redway,CA,California
+95562,Rio Dell,CA,California
+95563,Salyer,CA,California
+95564,Samoa,CA,California
+95565,Scotia,CA,California
+95567,Smith River,CA,California
+95568,Somes Bar,CA,California
+95569,Redcrest,CA,California
+95570,Trinidad,CA,California
+95571,Weott,CA,California
+95573,Willow Creek,CA,California
+95585,Leggett,CA,California
+95587,Piercy,CA,California
+95589,Whitethorn,CA,California
+95595,Zenia,CA,California
+95601,Amador City,CA,California
+95602,Auburn,CA,California
+95603,Auburn,CA,California
+95604,Auburn,CA,California
+95605,West Sacramento,CA,California
+95606,Brooks,CA,California
+95607,Capay,CA,California
+95608,Carmichael,CA,California
+95610,Citrus Heights,CA,California
+95612,Clarksburg,CA,California
+95614,Cool,CA,California
+95615,Courtland,CA,California
+95616,Davis,CA,California
+95618,Davis,CA,California
+95619,Diamond Springs,CA,California
+95620,Dixon,CA,California
+95621,Citrus Heights,CA,California
+95623,El Dorado,CA,California
+95624,Elk Grove,CA,California
+95625,Elmira,CA,California
+95626,Elverta,CA,California
+95627,Esparto,CA,California
+95628,Fair Oaks,CA,California
+95629,Fiddletown,CA,California
+95630,Folsom,CA,California
+95631,Foresthill,CA,California
+95632,Galt,CA,California
+95633,Garden Valley,CA,California
+95634,Georgetown,CA,California
+95635,Greenwood,CA,California
+95636,Grizzly Flats,CA,California
+95637,Guinda,CA,California
+95638,Herald,CA,California
+95639,Hood,CA,California
+95640,Ione,CA,California
+95641,Isleton,CA,California
+95642,Jackson,CA,California
+95645,Knights Landing,CA,California
+95646,Kirkwood,CA,California
+95648,Lincoln,CA,California
+95650,Loomis,CA,California
+95651,Lotus,CA,California
+95652,Mcclellan,CA,California
+95653,Madison,CA,California
+95655,Mather,CA,California
+95658,Newcastle,CA,California
+95659,Nicolaus,CA,California
+95660,North Highlands,CA,California
+95661,Roseville,CA,California
+95662,Orangevale,CA,California
+95663,Penryn,CA,California
+95664,Pilot Hill,CA,California
+95665,Pine Grove,CA,California
+95666,Pioneer,CA,California
+95667,Placerville,CA,California
+95668,Pleasant Grove,CA,California
+95669,Plymouth,CA,California
+95670,Rancho Cordova,CA,California
+95672,Rescue,CA,California
+95673,Rio Linda,CA,California
+95674,Rio Oso,CA,California
+95675,River Pines,CA,California
+95677,Rocklin,CA,California
+95678,Roseville,CA,California
+95679,Rumsey,CA,California
+95680,Ryde,CA,California
+95681,Sheridan,CA,California
+95682,Shingle Springs,CA,California
+95683,Sloughhouse,CA,California
+95684,Somerset,CA,California
+95685,Sutter Creek,CA,California
+95686,Thornton,CA,California
+95687,Vacaville,CA,California
+95688,Vacaville,CA,California
+95689,Volcano,CA,California
+95690,Walnut Grove,CA,California
+95691,West Sacramento,CA,California
+95692,Wheatland,CA,California
+95693,Wilton,CA,California
+95694,Winters,CA,California
+95695,Woodland,CA,California
+95697,Yolo,CA,California
+95698,Zamora,CA,California
+95699,Drytown,CA,California
+95701,Alta,CA,California
+95703,Applegate,CA,California
+95709,Camino,CA,California
+95713,Colfax,CA,California
+95714,Dutch Flat,CA,California
+95715,Emigrant Gap,CA,California
+95717,Gold Run,CA,California
+95720,Kyburz,CA,California
+95721,Echo Lake,CA,California
+95722,Meadow Vista,CA,California
+95724,Norden,CA,California
+95726,Pollock Pines,CA,California
+95728,Soda Springs,CA,California
+95735,Twin Bridges,CA,California
+95736,Weimar,CA,California
+95742,Rancho Cordova,CA,California
+95746,Granite Bay,CA,California
+95747,Roseville,CA,California
+95757,Elk Grove,CA,California
+95758,Elk Grove,CA,California
+95762,El Dorado Hills,CA,California
+95765,Rocklin,CA,California
+95776,Woodland,CA,California
+95811,Sacramento,CA,California
+95814,Sacramento,CA,California
+95815,Sacramento,CA,California
+95816,Sacramento,CA,California
+95817,Sacramento,CA,California
+95818,Sacramento,CA,California
+95819,Sacramento,CA,California
+95820,Sacramento,CA,California
+95821,Sacramento,CA,California
+95822,Sacramento,CA,California
+95823,Sacramento,CA,California
+95824,Sacramento,CA,California
+95825,Sacramento,CA,California
+95826,Sacramento,CA,California
+95827,Sacramento,CA,California
+95828,Sacramento,CA,California
+95829,Sacramento,CA,California
+95830,Sacramento,CA,California
+95831,Sacramento,CA,California
+95832,Sacramento,CA,California
+95833,Sacramento,CA,California
+95834,Sacramento,CA,California
+95835,Sacramento,CA,California
+95837,Sacramento,CA,California
+95838,Sacramento,CA,California
+95841,Sacramento,CA,California
+95842,Sacramento,CA,California
+95843,Antelope,CA,California
+95864,Sacramento,CA,California
+95901,Marysville,CA,California
+95903,Beale Afb,CA,California
+95910,Alleghany,CA,California
+95912,Arbuckle,CA,California
+95914,Bangor,CA,California
+95915,Belden,CA,California
+95916,Berry Creek,CA,California
+95917,Biggs,CA,California
+95918,Browns Valley,CA,California
+95919,Brownsville,CA,California
+95920,Butte City,CA,California
+95922,Camptonville,CA,California
+95923,Canyon Dam,CA,California
+95925,Challenge,CA,California
+95926,Chico,CA,California
+95928,Chico,CA,California
+95930,Clipper Mills,CA,California
+95932,Colusa,CA,California
+95934,Crescent Mills,CA,California
+95935,Dobbins,CA,California
+95936,Downieville,CA,California
+95937,Dunnigan,CA,California
+95938,Durham,CA,California
+95939,Elk Creek,CA,California
+95941,Forbestown,CA,California
+95942,Forest Ranch,CA,California
+95943,Glenn,CA,California
+95944,Goodyears Bar,CA,California
+95945,Grass Valley,CA,California
+95946,Penn Valley,CA,California
+95947,Greenville,CA,California
+95948,Gridley,CA,California
+95949,Grass Valley,CA,California
+95950,Grimes,CA,California
+95951,Hamilton City,CA,California
+95953,Live Oak,CA,California
+95954,Magalia,CA,California
+95955,Maxwell,CA,California
+95956,Meadow Valley,CA,California
+95957,Meridian,CA,California
+95959,Nevada City,CA,California
+95960,North San Juan,CA,California
+95961,Olivehurst,CA,California
+95962,Oregon House,CA,California
+95963,Orland,CA,California
+95965,Oroville,CA,California
+95966,Oroville,CA,California
+95968,Palermo,CA,California
+95969,Paradise,CA,California
+95970,Princeton,CA,California
+95971,Quincy,CA,California
+95973,Chico,CA,California
+95974,Richvale,CA,California
+95975,Rough And Ready,CA,California
+95977,Smartsville,CA,California
+95978,Stirling City,CA,California
+95979,Stonyford,CA,California
+95981,Strawberry Valley,CA,California
+95982,Sutter,CA,California
+95983,Taylorsville,CA,California
+95984,Twain,CA,California
+95986,Washington,CA,California
+95987,Williams,CA,California
+95988,Willows,CA,California
+95991,Yuba City,CA,California
+95993,Yuba City,CA,California
+96001,Redding,CA,California
+96002,Redding,CA,California
+96003,Redding,CA,California
+96006,Adin,CA,California
+96007,Anderson,CA,California
+96008,Bella Vista,CA,California
+96009,Bieber,CA,California
+96010,Big Bar,CA,California
+96011,Big Bend,CA,California
+96013,Burney,CA,California
+96014,Callahan,CA,California
+96015,Canby,CA,California
+96016,Cassel,CA,California
+96017,Castella,CA,California
+96019,Shasta Lake,CA,California
+96020,Chester,CA,California
+96021,Corning,CA,California
+96022,Cottonwood,CA,California
+96023,Dorris,CA,California
+96024,Douglas City,CA,California
+96025,Dunsmuir,CA,California
+96027,Etna,CA,California
+96028,Fall River Mills,CA,California
+96029,Flournoy,CA,California
+96031,Forks Of Salmon,CA,California
+96032,Fort Jones,CA,California
+96033,French Gulch,CA,California
+96034,Gazelle,CA,California
+96035,Gerber,CA,California
+96037,Greenview,CA,California
+96038,Grenada,CA,California
+96039,Happy Camp,CA,California
+96040,Hat Creek,CA,California
+96041,Hayfork,CA,California
+96044,Hornbrook,CA,California
+96046,Hyampom,CA,California
+96047,Igo,CA,California
+96048,Junction City,CA,California
+96049,Redding,CA,California
+96050,Klamath River,CA,California
+96051,Lakehead,CA,California
+96052,Lewiston,CA,California
+96054,Lookout,CA,California
+96055,Los Molinos,CA,California
+96056,Mcarthur,CA,California
+96057,Mccloud,CA,California
+96058,Macdoel,CA,California
+96059,Manton,CA,California
+96061,Mill Creek,CA,California
+96062,Millville,CA,California
+96063,Mineral,CA,California
+96064,Montague,CA,California
+96065,Montgomery Creek,CA,California
+96067,Mount Shasta,CA,California
+96068,Nubieber,CA,California
+96069,Oak Run,CA,California
+96071,Old Station,CA,California
+96073,Palo Cedro,CA,California
+96074,Paskenta,CA,California
+96075,Paynes Creek,CA,California
+96076,Platina,CA,California
+96080,Red Bluff,CA,California
+96084,Round Mountain,CA,California
+96085,Scott Bar,CA,California
+96086,Seiad Valley,CA,California
+96087,Shasta,CA,California
+96088,Shingletown,CA,California
+96090,Tehama,CA,California
+96091,Trinity Center,CA,California
+96092,Vina,CA,California
+96093,Weaverville,CA,California
+96094,Weed,CA,California
+96096,Whitmore,CA,California
+96097,Yreka,CA,California
+96101,Alturas,CA,California
+96103,Blairsden Graeagle,CA,California
+96104,Cedarville,CA,California
+96105,Chilcoot,CA,California
+96106,Clio,CA,California
+96107,Coleville,CA,California
+96108,Davis Creek,CA,California
+96109,Doyle,CA,California
+96110,Eagleville,CA,California
+96111,Floriston,CA,California
+96112,Fort Bidwell,CA,California
+96113,Herlong,CA,California
+96114,Janesville,CA,California
+96115,Lake City,CA,California
+96116,Likely,CA,California
+96117,Litchfield,CA,California
+96118,Loyalton,CA,California
+96119,Madeline,CA,California
+96120,Markleeville,CA,California
+96121,Milford,CA,California
+96122,Portola,CA,California
+96123,Ravendale,CA,California
+96124,Calpine,CA,California
+96125,Sierra City,CA,California
+96126,Sierraville,CA,California
+96128,Standish,CA,California
+96129,Beckwourth,CA,California
+96130,Susanville,CA,California
+96132,Termo,CA,California
+96133,Topaz,CA,California
+96134,Tulelake,CA,California
+96135,Vinton,CA,California
+96136,Wendel,CA,California
+96137,Westwood,CA,California
+96140,Carnelian Bay,CA,California
+96141,Homewood,CA,California
+96142,Tahoma,CA,California
+96143,Kings Beach,CA,California
+96145,Tahoe City,CA,California
+96146,Olympic Valley,CA,California
+96148,Tahoe Vista,CA,California
+96150,South Lake Tahoe,CA,California
+96155,South Lake Tahoe,CA,California
+96161,Truckee,CA,California
+96701,Aiea,HI,Hawaii
+96703,Anahola,HI,Hawaii
+96704,Captain Cook,HI,Hawaii
+96705,Eleele,HI,Hawaii
+96706,Ewa Beach,HI,Hawaii
+96707,Kapolei,HI,Hawaii
+96708,Haiku,HI,Hawaii
+96710,Hakalau,HI,Hawaii
+96712,Haleiwa,HI,Hawaii
+96713,Hana,HI,Hawaii
+96714,Hanalei,HI,Hawaii
+96716,Hanapepe,HI,Hawaii
+96717,Hauula,HI,Hawaii
+96719,Hawi,HI,Hawaii
+96720,Hilo,HI,Hawaii
+96722,Princeville,HI,Hawaii
+96725,Holualoa,HI,Hawaii
+96726,Honaunau,HI,Hawaii
+96727,Honokaa,HI,Hawaii
+96728,Honomu,HI,Hawaii
+96729,Hoolehua,HI,Hawaii
+96730,Kaaawa,HI,Hawaii
+96731,Kahuku,HI,Hawaii
+96732,Kahului,HI,Hawaii
+96734,Kailua,HI,Hawaii
+96737,Ocean View,HI,Hawaii
+96738,Waikoloa,HI,Hawaii
+96740,Kailua Kona,HI,Hawaii
+96741,Kalaheo,HI,Hawaii
+96742,Kalaupapa,HI,Hawaii
+96743,Kamuela,HI,Hawaii
+96744,Kaneohe,HI,Hawaii
+96746,Kapaa,HI,Hawaii
+96747,Kaumakani,HI,Hawaii
+96748,Kaunakakai,HI,Hawaii
+96749,Keaau,HI,Hawaii
+96750,Kealakekua,HI,Hawaii
+96751,Kealia,HI,Hawaii
+96752,Kekaha,HI,Hawaii
+96753,Kihei,HI,Hawaii
+96754,Kilauea,HI,Hawaii
+96755,Kapaau,HI,Hawaii
+96756,Koloa,HI,Hawaii
+96757,Kualapuu,HI,Hawaii
+96759,Kunia,HI,Hawaii
+96760,Kurtistown,HI,Hawaii
+96761,Lahaina,HI,Hawaii
+96762,Laie,HI,Hawaii
+96763,Lanai City,HI,Hawaii
+96764,Laupahoehoe,HI,Hawaii
+96765,Lawai,HI,Hawaii
+96766,Lihue,HI,Hawaii
+96768,Makawao,HI,Hawaii
+96769,Makaweli,HI,Hawaii
+96770,Maunaloa,HI,Hawaii
+96771,Mountain View,HI,Hawaii
+96772,Naalehu,HI,Hawaii
+96773,Ninole,HI,Hawaii
+96774,Ookala,HI,Hawaii
+96776,Paauilo,HI,Hawaii
+96777,Pahala,HI,Hawaii
+96778,Pahoa,HI,Hawaii
+96779,Paia,HI,Hawaii
+96780,Papaaloa,HI,Hawaii
+96781,Papaikou,HI,Hawaii
+96782,Pearl City,HI,Hawaii
+96783,Pepeekeo,HI,Hawaii
+96785,Volcano,HI,Hawaii
+96786,Wahiawa,HI,Hawaii
+96789,Mililani,HI,Hawaii
+96790,Kula,HI,Hawaii
+96791,Waialua,HI,Hawaii
+96792,Waianae,HI,Hawaii
+96793,Wailuku,HI,Hawaii
+96795,Waimanalo,HI,Hawaii
+96796,Waimea,HI,Hawaii
+96797,Waipahu,HI,Hawaii
+96799,Pago Pago,AS,American Samoa
+96813,Honolulu,HI,Hawaii
+96814,Honolulu,HI,Hawaii
+96815,Honolulu,HI,Hawaii
+96816,Honolulu,HI,Hawaii
+96817,Honolulu,HI,Hawaii
+96818,Honolulu,HI,Hawaii
+96819,Honolulu,HI,Hawaii
+96821,Honolulu,HI,Hawaii
+96822,Honolulu,HI,Hawaii
+96825,Honolulu,HI,Hawaii
+96826,Honolulu,HI,Hawaii
+96850,Honolulu,HI,Hawaii
+96853,Jbphh,HI,Hawaii
+96857,Schofield Barracks,HI,Hawaii
+96859,Tripler Army Medical Center,HI,Hawaii
+96860,Jbphh,HI,Hawaii
+96863,Mcbh Kaneohe Bay,HI,Hawaii
+96910,Hagatna,GU,Guam
+96913,Barrigada,GU,Guam
+96915,Santa Rita,GU,Guam
+96916,Merizo,GU,Guam
+96917,Inarajan,GU,Guam
+96921,Barrigada,GU,Guam
+96928,Agat,GU,Guam
+96929,Yigo,GU,Guam
+96932,Hagatna,GU,Guam
+96950,Saipan,MP,Northern Mariana Islands
+96951,Rota,MP,Northern Mariana Islands
+96952,Tinian,MP,Northern Mariana Islands
+97001,Antelope,OR,Oregon
+97002,Aurora,OR,Oregon
+97004,Beavercreek,OR,Oregon
+97005,Beaverton,OR,Oregon
+97006,Beaverton,OR,Oregon
+97007,Beaverton,OR,Oregon
+97008,Beaverton,OR,Oregon
+97009,Boring,OR,Oregon
+97011,Brightwood,OR,Oregon
+97013,Canby,OR,Oregon
+97014,Cascade Locks,OR,Oregon
+97015,Clackamas,OR,Oregon
+97016,Clatskanie,OR,Oregon
+97017,Colton,OR,Oregon
+97018,Columbia City,OR,Oregon
+97019,Corbett,OR,Oregon
+97020,Donald,OR,Oregon
+97021,Dufur,OR,Oregon
+97022,Eagle Creek,OR,Oregon
+97023,Estacada,OR,Oregon
+97024,Fairview,OR,Oregon
+97026,Gervais,OR,Oregon
+97027,Gladstone,OR,Oregon
+97028,Government Camp,OR,Oregon
+97029,Grass Valley,OR,Oregon
+97030,Gresham,OR,Oregon
+97031,Hood River,OR,Oregon
+97032,Hubbard,OR,Oregon
+97033,Kent,OR,Oregon
+97034,Lake Oswego,OR,Oregon
+97035,Lake Oswego,OR,Oregon
+97037,Maupin,OR,Oregon
+97038,Molalla,OR,Oregon
+97039,Moro,OR,Oregon
+97040,Mosier,OR,Oregon
+97041,Mount Hood Parkdale,OR,Oregon
+97042,Mulino,OR,Oregon
+97045,Oregon City,OR,Oregon
+97048,Rainier,OR,Oregon
+97049,Rhododendron,OR,Oregon
+97050,Rufus,OR,Oregon
+97051,Saint Helens,OR,Oregon
+97053,Warren,OR,Oregon
+97054,Deer Island,OR,Oregon
+97055,Sandy,OR,Oregon
+97056,Scappoose,OR,Oregon
+97057,Shaniko,OR,Oregon
+97058,The Dalles,OR,Oregon
+97060,Troutdale,OR,Oregon
+97062,Tualatin,OR,Oregon
+97063,Tygh Valley,OR,Oregon
+97064,Vernonia,OR,Oregon
+97065,Wasco,OR,Oregon
+97067,Welches,OR,Oregon
+97068,West Linn,OR,Oregon
+97070,Wilsonville,OR,Oregon
+97071,Woodburn,OR,Oregon
+97080,Gresham,OR,Oregon
+97086,Happy Valley,OR,Oregon
+97089,Damascus,OR,Oregon
+97101,Amity,OR,Oregon
+97102,Arch Cape,OR,Oregon
+97103,Astoria,OR,Oregon
+97106,Banks,OR,Oregon
+97107,Bay City,OR,Oregon
+97108,Beaver,OR,Oregon
+97109,Buxton,OR,Oregon
+97110,Cannon Beach,OR,Oregon
+97111,Carlton,OR,Oregon
+97112,Cloverdale,OR,Oregon
+97113,Cornelius,OR,Oregon
+97114,Dayton,OR,Oregon
+97115,Dundee,OR,Oregon
+97116,Forest Grove,OR,Oregon
+97117,Gales Creek,OR,Oregon
+97118,Garibaldi,OR,Oregon
+97119,Gaston,OR,Oregon
+97121,Hammond,OR,Oregon
+97122,Hebo,OR,Oregon
+97123,Hillsboro,OR,Oregon
+97124,Hillsboro,OR,Oregon
+97125,Manning,OR,Oregon
+97127,Lafayette,OR,Oregon
+97128,Mcminnville,OR,Oregon
+97130,Manzanita,OR,Oregon
+97131,Nehalem,OR,Oregon
+97132,Newberg,OR,Oregon
+97133,North Plains,OR,Oregon
+97134,Oceanside,OR,Oregon
+97135,Pacific City,OR,Oregon
+97136,Rockaway Beach,OR,Oregon
+97137,Saint Paul,OR,Oregon
+97138,Seaside,OR,Oregon
+97140,Sherwood,OR,Oregon
+97141,Tillamook,OR,Oregon
+97144,Timber,OR,Oregon
+97145,Tolovana Park,OR,Oregon
+97146,Warrenton,OR,Oregon
+97147,Wheeler,OR,Oregon
+97148,Yamhill,OR,Oregon
+97149,Neskowin,OR,Oregon
+97201,Portland,OR,Oregon
+97202,Portland,OR,Oregon
+97203,Portland,OR,Oregon
+97204,Portland,OR,Oregon
+97205,Portland,OR,Oregon
+97206,Portland,OR,Oregon
+97208,Portland,OR,Oregon
+97209,Portland,OR,Oregon
+97210,Portland,OR,Oregon
+97211,Portland,OR,Oregon
+97212,Portland,OR,Oregon
+97213,Portland,OR,Oregon
+97214,Portland,OR,Oregon
+97215,Portland,OR,Oregon
+97216,Portland,OR,Oregon
+97217,Portland,OR,Oregon
+97218,Portland,OR,Oregon
+97219,Portland,OR,Oregon
+97220,Portland,OR,Oregon
+97221,Portland,OR,Oregon
+97222,Portland,OR,Oregon
+97223,Portland,OR,Oregon
+97224,Portland,OR,Oregon
+97225,Portland,OR,Oregon
+97227,Portland,OR,Oregon
+97229,Portland,OR,Oregon
+97230,Portland,OR,Oregon
+97231,Portland,OR,Oregon
+97232,Portland,OR,Oregon
+97233,Portland,OR,Oregon
+97236,Portland,OR,Oregon
+97239,Portland,OR,Oregon
+97266,Portland,OR,Oregon
+97267,Portland,OR,Oregon
+97301,Salem,OR,Oregon
+97302,Salem,OR,Oregon
+97303,Salem,OR,Oregon
+97304,Salem,OR,Oregon
+97305,Salem,OR,Oregon
+97306,Salem,OR,Oregon
+97317,Salem,OR,Oregon
+97321,Albany,OR,Oregon
+97322,Albany,OR,Oregon
+97324,Alsea,OR,Oregon
+97325,Aumsville,OR,Oregon
+97326,Blodgett,OR,Oregon
+97327,Brownsville,OR,Oregon
+97329,Cascadia,OR,Oregon
+97330,Corvallis,OR,Oregon
+97331,Corvallis,OR,Oregon
+97333,Corvallis,OR,Oregon
+97338,Dallas,OR,Oregon
+97341,Depoe Bay,OR,Oregon
+97342,Detroit,OR,Oregon
+97343,Eddyville,OR,Oregon
+97344,Falls City,OR,Oregon
+97345,Foster,OR,Oregon
+97346,Gates,OR,Oregon
+97347,Grand Ronde,OR,Oregon
+97348,Halsey,OR,Oregon
+97350,Idanha,OR,Oregon
+97351,Independence,OR,Oregon
+97352,Jefferson,OR,Oregon
+97355,Lebanon,OR,Oregon
+97357,Logsden,OR,Oregon
+97358,Lyons,OR,Oregon
+97360,Mill City,OR,Oregon
+97361,Monmouth,OR,Oregon
+97362,Mount Angel,OR,Oregon
+97364,Neotsu,OR,Oregon
+97365,Newport,OR,Oregon
+97366,South Beach,OR,Oregon
+97367,Lincoln City,OR,Oregon
+97368,Otis,OR,Oregon
+97369,Otter Rock,OR,Oregon
+97370,Philomath,OR,Oregon
+97371,Rickreall,OR,Oregon
+97373,Saint Benedict,OR,Oregon
+97374,Scio,OR,Oregon
+97375,Scotts Mills,OR,Oregon
+97376,Seal Rock,OR,Oregon
+97377,Shedd,OR,Oregon
+97378,Sheridan,OR,Oregon
+97380,Siletz,OR,Oregon
+97381,Silverton,OR,Oregon
+97383,Stayton,OR,Oregon
+97384,Mehama,OR,Oregon
+97385,Sublimity,OR,Oregon
+97386,Sweet Home,OR,Oregon
+97388,Gleneden Beach,OR,Oregon
+97389,Tangent,OR,Oregon
+97390,Tidewater,OR,Oregon
+97391,Toledo,OR,Oregon
+97392,Turner,OR,Oregon
+97394,Waldport,OR,Oregon
+97396,Willamina,OR,Oregon
+97401,Eugene,OR,Oregon
+97402,Eugene,OR,Oregon
+97403,Eugene,OR,Oregon
+97404,Eugene,OR,Oregon
+97405,Eugene,OR,Oregon
+97406,Agness,OR,Oregon
+97408,Eugene,OR,Oregon
+97410,Azalea,OR,Oregon
+97411,Bandon,OR,Oregon
+97412,Blachly,OR,Oregon
+97413,Blue River,OR,Oregon
+97414,Broadbent,OR,Oregon
+97415,Brookings,OR,Oregon
+97416,Camas Valley,OR,Oregon
+97417,Canyonville,OR,Oregon
+97419,Cheshire,OR,Oregon
+97420,Coos Bay,OR,Oregon
+97423,Coquille,OR,Oregon
+97424,Cottage Grove,OR,Oregon
+97426,Creswell,OR,Oregon
+97429,Days Creek,OR,Oregon
+97430,Deadwood,OR,Oregon
+97431,Dexter,OR,Oregon
+97434,Dorena,OR,Oregon
+97435,Drain,OR,Oregon
+97436,Elkton,OR,Oregon
+97437,Elmira,OR,Oregon
+97438,Fall Creek,OR,Oregon
+97439,Florence,OR,Oregon
+97441,Gardiner,OR,Oregon
+97442,Glendale,OR,Oregon
+97443,Glide,OR,Oregon
+97444,Gold Beach,OR,Oregon
+97446,Harrisburg,OR,Oregon
+97447,Idleyld Park,OR,Oregon
+97448,Junction City,OR,Oregon
+97449,Lakeside,OR,Oregon
+97450,Langlois,OR,Oregon
+97451,Lorane,OR,Oregon
+97452,Lowell,OR,Oregon
+97453,Mapleton,OR,Oregon
+97454,Marcola,OR,Oregon
+97455,Pleasant Hill,OR,Oregon
+97456,Monroe,OR,Oregon
+97457,Myrtle Creek,OR,Oregon
+97458,Myrtle Point,OR,Oregon
+97459,North Bend,OR,Oregon
+97461,Noti,OR,Oregon
+97462,Oakland,OR,Oregon
+97463,Oakridge,OR,Oregon
+97465,Port Orford,OR,Oregon
+97466,Powers,OR,Oregon
+97467,Reedsport,OR,Oregon
+97469,Riddle,OR,Oregon
+97470,Roseburg,OR,Oregon
+97471,Roseburg,OR,Oregon
+97473,Scottsburg,OR,Oregon
+97476,Sixes,OR,Oregon
+97477,Springfield,OR,Oregon
+97478,Springfield,OR,Oregon
+97479,Sutherlin,OR,Oregon
+97480,Swisshome,OR,Oregon
+97481,Tenmile,OR,Oregon
+97484,Tiller,OR,Oregon
+97486,Umpqua,OR,Oregon
+97487,Veneta,OR,Oregon
+97488,Vida,OR,Oregon
+97489,Walterville,OR,Oregon
+97490,Walton,OR,Oregon
+97492,Westfir,OR,Oregon
+97493,Westlake,OR,Oregon
+97494,Wilbur,OR,Oregon
+97495,Winchester,OR,Oregon
+97496,Winston,OR,Oregon
+97497,Wolf Creek,OR,Oregon
+97498,Yachats,OR,Oregon
+97499,Yoncalla,OR,Oregon
+97501,Medford,OR,Oregon
+97502,Central Point,OR,Oregon
+97503,White City,OR,Oregon
+97504,Medford,OR,Oregon
+97520,Ashland,OR,Oregon
+97522,Butte Falls,OR,Oregon
+97523,Cave Junction,OR,Oregon
+97524,Eagle Point,OR,Oregon
+97525,Gold Hill,OR,Oregon
+97526,Grants Pass,OR,Oregon
+97527,Grants Pass,OR,Oregon
+97530,Jacksonville,OR,Oregon
+97531,Kerby,OR,Oregon
+97532,Merlin,OR,Oregon
+97534,O'Brien,OR,Oregon
+97535,Phoenix,OR,Oregon
+97536,Prospect,OR,Oregon
+97537,Rogue River,OR,Oregon
+97538,Selma,OR,Oregon
+97539,Shady Cove,OR,Oregon
+97540,Talent,OR,Oregon
+97541,Trail,OR,Oregon
+97543,Wilderville,OR,Oregon
+97544,Williams,OR,Oregon
+97601,Klamath Falls,OR,Oregon
+97603,Klamath Falls,OR,Oregon
+97604,Crater Lake,OR,Oregon
+97620,Adel,OR,Oregon
+97621,Beatty,OR,Oregon
+97622,Bly,OR,Oregon
+97623,Bonanza,OR,Oregon
+97624,Chiloquin,OR,Oregon
+97625,Dairy,OR,Oregon
+97626,Fort Klamath,OR,Oregon
+97627,Keno,OR,Oregon
+97630,Lakeview,OR,Oregon
+97632,Malin,OR,Oregon
+97633,Merrill,OR,Oregon
+97634,Midland,OR,Oregon
+97635,New Pine Creek,OR,Oregon
+97636,Paisley,OR,Oregon
+97637,Plush,OR,Oregon
+97638,Silver Lake,OR,Oregon
+97639,Sprague River,OR,Oregon
+97640,Summer Lake,OR,Oregon
+97641,Christmas Valley,OR,Oregon
+97701,Bend,OR,Oregon
+97702,Bend,OR,Oregon
+97707,Bend,OR,Oregon
+97710,Fields,OR,Oregon
+97711,Ashwood,OR,Oregon
+97712,Brothers,OR,Oregon
+97720,Burns,OR,Oregon
+97721,Princeton,OR,Oregon
+97722,Diamond,OR,Oregon
+97730,Camp Sherman,OR,Oregon
+97731,Chemult,OR,Oregon
+97732,Crane,OR,Oregon
+97733,Crescent,OR,Oregon
+97734,Culver,OR,Oregon
+97735,Fort Rock,OR,Oregon
+97736,Frenchglen,OR,Oregon
+97737,Gilchrist,OR,Oregon
+97738,Hines,OR,Oregon
+97739,La Pine,OR,Oregon
+97741,Madras,OR,Oregon
+97750,Mitchell,OR,Oregon
+97751,Paulina,OR,Oregon
+97752,Post,OR,Oregon
+97753,Powell Butte,OR,Oregon
+97754,Prineville,OR,Oregon
+97756,Redmond,OR,Oregon
+97758,Riley,OR,Oregon
+97759,Sisters,OR,Oregon
+97760,Terrebonne,OR,Oregon
+97761,Warm Springs,OR,Oregon
+97801,Pendleton,OR,Oregon
+97810,Adams,OR,Oregon
+97812,Arlington,OR,Oregon
+97813,Athena,OR,Oregon
+97814,Baker City,OR,Oregon
+97817,Bates,OR,Oregon
+97818,Boardman,OR,Oregon
+97819,Bridgeport,OR,Oregon
+97820,Canyon City,OR,Oregon
+97823,Condon,OR,Oregon
+97824,Cove,OR,Oregon
+97825,Dayville,OR,Oregon
+97826,Echo,OR,Oregon
+97827,Elgin,OR,Oregon
+97828,Enterprise,OR,Oregon
+97830,Fossil,OR,Oregon
+97833,Haines,OR,Oregon
+97834,Halfway,OR,Oregon
+97835,Helix,OR,Oregon
+97836,Heppner,OR,Oregon
+97837,Hereford,OR,Oregon
+97838,Hermiston,OR,Oregon
+97839,Lexington,OR,Oregon
+97840,Oxbow,OR,Oregon
+97841,Imbler,OR,Oregon
+97842,Imnaha,OR,Oregon
+97843,Ione,OR,Oregon
+97844,Irrigon,OR,Oregon
+97845,John Day,OR,Oregon
+97846,Joseph,OR,Oregon
+97848,Kimberly,OR,Oregon
+97850,La Grande,OR,Oregon
+97856,Long Creek,OR,Oregon
+97857,Lostine,OR,Oregon
+97859,Meacham,OR,Oregon
+97862,Milton Freewater,OR,Oregon
+97864,Monument,OR,Oregon
+97865,Mount Vernon,OR,Oregon
+97867,North Powder,OR,Oregon
+97868,Pilot Rock,OR,Oregon
+97869,Prairie City,OR,Oregon
+97870,Richland,OR,Oregon
+97873,Seneca,OR,Oregon
+97874,Spray,OR,Oregon
+97875,Stanfield,OR,Oregon
+97876,Summerville,OR,Oregon
+97877,Sumpter,OR,Oregon
+97880,Ukiah,OR,Oregon
+97882,Umatilla,OR,Oregon
+97883,Union,OR,Oregon
+97884,Unity,OR,Oregon
+97885,Wallowa,OR,Oregon
+97886,Weston,OR,Oregon
+97901,Adrian,OR,Oregon
+97903,Brogan,OR,Oregon
+97904,Drewsey,OR,Oregon
+97905,Durkee,OR,Oregon
+97906,Harper,OR,Oregon
+97907,Huntington,OR,Oregon
+97908,Ironside,OR,Oregon
+97909,Jamieson,OR,Oregon
+97910,Jordan Valley,OR,Oregon
+97911,Juntura,OR,Oregon
+97913,Nyssa,OR,Oregon
+97914,Ontario,OR,Oregon
+97918,Vale,OR,Oregon
+97920,Westfall,OR,Oregon
+98001,Auburn,WA,Washington
+98002,Auburn,WA,Washington
+98003,Federal Way,WA,Washington
+98004,Bellevue,WA,Washington
+98005,Bellevue,WA,Washington
+98006,Bellevue,WA,Washington
+98007,Bellevue,WA,Washington
+98008,Bellevue,WA,Washington
+98010,Black Diamond,WA,Washington
+98011,Bothell,WA,Washington
+98012,Bothell,WA,Washington
+98014,Carnation,WA,Washington
+98019,Duvall,WA,Washington
+98020,Edmonds,WA,Washington
+98021,Bothell,WA,Washington
+98022,Enumclaw,WA,Washington
+98023,Federal Way,WA,Washington
+98024,Fall City,WA,Washington
+98026,Edmonds,WA,Washington
+98027,Issaquah,WA,Washington
+98028,Kenmore,WA,Washington
+98029,Issaquah,WA,Washington
+98030,Kent,WA,Washington
+98031,Kent,WA,Washington
+98032,Kent,WA,Washington
+98033,Kirkland,WA,Washington
+98034,Kirkland,WA,Washington
+98036,Lynnwood,WA,Washington
+98037,Lynnwood,WA,Washington
+98038,Maple Valley,WA,Washington
+98039,Medina,WA,Washington
+98040,Mercer Island,WA,Washington
+98042,Kent,WA,Washington
+98043,Mountlake Terrace,WA,Washington
+98045,North Bend,WA,Washington
+98047,Pacific,WA,Washington
+98050,Preston,WA,Washington
+98051,Ravensdale,WA,Washington
+98052,Redmond,WA,Washington
+98053,Redmond,WA,Washington
+98055,Renton,WA,Washington
+98056,Renton,WA,Washington
+98057,Renton,WA,Washington
+98058,Renton,WA,Washington
+98059,Renton,WA,Washington
+98065,Snoqualmie,WA,Washington
+98068,Snoqualmie Pass,WA,Washington
+98070,Vashon,WA,Washington
+98072,Woodinville,WA,Washington
+98074,Sammamish,WA,Washington
+98075,Sammamish,WA,Washington
+98077,Woodinville,WA,Washington
+98087,Lynnwood,WA,Washington
+98092,Auburn,WA,Washington
+98101,Seattle,WA,Washington
+98102,Seattle,WA,Washington
+98103,Seattle,WA,Washington
+98104,Seattle,WA,Washington
+98105,Seattle,WA,Washington
+98106,Seattle,WA,Washington
+98107,Seattle,WA,Washington
+98108,Seattle,WA,Washington
+98109,Seattle,WA,Washington
+98110,Bainbridge Island,WA,Washington
+98112,Seattle,WA,Washington
+98115,Seattle,WA,Washington
+98116,Seattle,WA,Washington
+98117,Seattle,WA,Washington
+98118,Seattle,WA,Washington
+98119,Seattle,WA,Washington
+98121,Seattle,WA,Washington
+98122,Seattle,WA,Washington
+98125,Seattle,WA,Washington
+98126,Seattle,WA,Washington
+98133,Seattle,WA,Washington
+98134,Seattle,WA,Washington
+98136,Seattle,WA,Washington
+98144,Seattle,WA,Washington
+98146,Seattle,WA,Washington
+98148,Seattle,WA,Washington
+98154,Seattle,WA,Washington
+98155,Seattle,WA,Washington
+98158,Seattle,WA,Washington
+98164,Seattle,WA,Washington
+98166,Seattle,WA,Washington
+98168,Seattle,WA,Washington
+98174,Seattle,WA,Washington
+98177,Seattle,WA,Washington
+98178,Seattle,WA,Washington
+98188,Seattle,WA,Washington
+98195,Seattle,WA,Washington
+98198,Seattle,WA,Washington
+98199,Seattle,WA,Washington
+98201,Everett,WA,Washington
+98203,Everett,WA,Washington
+98204,Everett,WA,Washington
+98207,Everett,WA,Washington
+98208,Everett,WA,Washington
+98220,Acme,WA,Washington
+98221,Anacortes,WA,Washington
+98222,Blakely Island,WA,Washington
+98223,Arlington,WA,Washington
+98224,Baring,WA,Washington
+98225,Bellingham,WA,Washington
+98226,Bellingham,WA,Washington
+98229,Bellingham,WA,Washington
+98230,Blaine,WA,Washington
+98232,Bow,WA,Washington
+98233,Burlington,WA,Washington
+98235,Clearlake,WA,Washington
+98236,Clinton,WA,Washington
+98237,Concrete,WA,Washington
+98238,Conway,WA,Washington
+98239,Coupeville,WA,Washington
+98240,Custer,WA,Washington
+98241,Darrington,WA,Washington
+98243,Deer Harbor,WA,Washington
+98244,Deming,WA,Washington
+98245,Eastsound,WA,Washington
+98247,Everson,WA,Washington
+98248,Ferndale,WA,Washington
+98249,Freeland,WA,Washington
+98250,Friday Harbor,WA,Washington
+98251,Gold Bar,WA,Washington
+98252,Granite Falls,WA,Washington
+98253,Greenbank,WA,Washington
+98255,Hamilton,WA,Washington
+98256,Index,WA,Washington
+98257,La Conner,WA,Washington
+98258,Lake Stevens,WA,Washington
+98260,Langley,WA,Washington
+98261,Lopez Island,WA,Washington
+98262,Lummi Island,WA,Washington
+98263,Lyman,WA,Washington
+98264,Lynden,WA,Washington
+98266,Maple Falls,WA,Washington
+98267,Marblemount,WA,Washington
+98270,Marysville,WA,Washington
+98271,Marysville,WA,Washington
+98272,Monroe,WA,Washington
+98273,Mount Vernon,WA,Washington
+98274,Mount Vernon,WA,Washington
+98275,Mukilteo,WA,Washington
+98276,Nooksack,WA,Washington
+98277,Oak Harbor,WA,Washington
+98278,Oak Harbor,WA,Washington
+98279,Olga,WA,Washington
+98280,Orcas,WA,Washington
+98281,Point Roberts,WA,Washington
+98282,Camano Island,WA,Washington
+98283,Rockport,WA,Washington
+98284,Sedro Woolley,WA,Washington
+98286,Shaw Island,WA,Washington
+98288,Skykomish,WA,Washington
+98290,Snohomish,WA,Washington
+98292,Stanwood,WA,Washington
+98294,Sultan,WA,Washington
+98295,Sumas,WA,Washington
+98296,Snohomish,WA,Washington
+98297,Waldron,WA,Washington
+98303,Anderson Island,WA,Washington
+98304,Ashford,WA,Washington
+98305,Beaver,WA,Washington
+98310,Bremerton,WA,Washington
+98311,Bremerton,WA,Washington
+98312,Bremerton,WA,Washington
+98314,Bremerton,WA,Washington
+98315,Silverdale,WA,Washington
+98320,Brinnon,WA,Washington
+98321,Buckley,WA,Washington
+98323,Carbonado,WA,Washington
+98325,Chimacum,WA,Washington
+98326,Clallam Bay,WA,Washington
+98327,Dupont,WA,Washington
+98328,Eatonville,WA,Washington
+98329,Gig Harbor,WA,Washington
+98330,Elbe,WA,Washington
+98331,Forks,WA,Washington
+98332,Gig Harbor,WA,Washington
+98333,Fox Island,WA,Washington
+98335,Gig Harbor,WA,Washington
+98336,Glenoma,WA,Washington
+98337,Bremerton,WA,Washington
+98338,Graham,WA,Washington
+98339,Port Hadlock,WA,Washington
+98340,Hansville,WA,Washington
+98342,Indianola,WA,Washington
+98345,Keyport,WA,Washington
+98346,Kingston,WA,Washington
+98349,Lakebay,WA,Washington
+98350,La Push,WA,Washington
+98351,Longbranch,WA,Washington
+98353,Manchester,WA,Washington
+98354,Milton,WA,Washington
+98355,Mineral,WA,Washington
+98356,Morton,WA,Washington
+98357,Neah Bay,WA,Washington
+98358,Nordland,WA,Washington
+98359,Olalla,WA,Washington
+98360,Orting,WA,Washington
+98361,Packwood,WA,Washington
+98362,Port Angeles,WA,Washington
+98363,Port Angeles,WA,Washington
+98364,Port Gamble,WA,Washington
+98365,Port Ludlow,WA,Washington
+98366,Port Orchard,WA,Washington
+98367,Port Orchard,WA,Washington
+98368,Port Townsend,WA,Washington
+98370,Poulsbo,WA,Washington
+98371,Puyallup,WA,Washington
+98372,Puyallup,WA,Washington
+98373,Puyallup,WA,Washington
+98374,Puyallup,WA,Washington
+98375,Puyallup,WA,Washington
+98376,Quilcene,WA,Washington
+98377,Randle,WA,Washington
+98380,Seabeck,WA,Washington
+98381,Sekiu,WA,Washington
+98382,Sequim,WA,Washington
+98383,Silverdale,WA,Washington
+98385,South Prairie,WA,Washington
+98387,Spanaway,WA,Washington
+98388,Steilacoom,WA,Washington
+98390,Sumner,WA,Washington
+98391,Bonney Lake,WA,Washington
+98392,Suquamish,WA,Washington
+98394,Vaughn,WA,Washington
+98396,Wilkeson,WA,Washington
+98402,Tacoma,WA,Washington
+98403,Tacoma,WA,Washington
+98404,Tacoma,WA,Washington
+98405,Tacoma,WA,Washington
+98406,Tacoma,WA,Washington
+98407,Tacoma,WA,Washington
+98408,Tacoma,WA,Washington
+98409,Tacoma,WA,Washington
+98416,Tacoma,WA,Washington
+98418,Tacoma,WA,Washington
+98421,Tacoma,WA,Washington
+98422,Tacoma,WA,Washington
+98424,Fife,WA,Washington
+98430,Camp Murray,WA,Washington
+98433,Tacoma,WA,Washington
+98438,Mcchord Afb,WA,Washington
+98439,Lakewood,WA,Washington
+98443,Tacoma,WA,Washington
+98444,Tacoma,WA,Washington
+98445,Tacoma,WA,Washington
+98446,Tacoma,WA,Washington
+98447,Tacoma,WA,Washington
+98465,Tacoma,WA,Washington
+98466,Tacoma,WA,Washington
+98467,University Place,WA,Washington
+98498,Lakewood,WA,Washington
+98499,Lakewood,WA,Washington
+98501,Olympia,WA,Washington
+98502,Olympia,WA,Washington
+98503,Lacey,WA,Washington
+98506,Olympia,WA,Washington
+98512,Olympia,WA,Washington
+98513,Olympia,WA,Washington
+98516,Olympia,WA,Washington
+98520,Aberdeen,WA,Washington
+98524,Allyn,WA,Washington
+98526,Amanda Park,WA,Washington
+98527,Bay Center,WA,Washington
+98528,Belfair,WA,Washington
+98530,Bucoda,WA,Washington
+98531,Centralia,WA,Washington
+98532,Chehalis,WA,Washington
+98533,Cinebar,WA,Washington
+98535,Copalis Beach,WA,Washington
+98536,Copalis Crossing,WA,Washington
+98537,Cosmopolis,WA,Washington
+98538,Curtis,WA,Washington
+98541,Elma,WA,Washington
+98542,Ethel,WA,Washington
+98544,Galvin,WA,Washington
+98546,Grapeview,WA,Washington
+98547,Grayland,WA,Washington
+98548,Hoodsport,WA,Washington
+98550,Hoquiam,WA,Washington
+98552,Humptulips,WA,Washington
+98555,Lilliwaup,WA,Washington
+98557,Mccleary,WA,Washington
+98558,Mckenna,WA,Washington
+98559,Malone,WA,Washington
+98560,Matlock,WA,Washington
+98562,Moclips,WA,Washington
+98563,Montesano,WA,Washington
+98564,Mossyrock,WA,Washington
+98565,Napavine,WA,Washington
+98568,Oakville,WA,Washington
+98569,Ocean Shores,WA,Washington
+98570,Onalaska,WA,Washington
+98571,Pacific Beach,WA,Washington
+98572,Pe Ell,WA,Washington
+98575,Quinault,WA,Washington
+98576,Rainier,WA,Washington
+98577,Raymond,WA,Washington
+98579,Rochester,WA,Washington
+98580,Roy,WA,Washington
+98581,Ryderwood,WA,Washington
+98582,Salkum,WA,Washington
+98583,Satsop,WA,Washington
+98584,Shelton,WA,Washington
+98585,Silver Creek,WA,Washington
+98586,South Bend,WA,Washington
+98587,Taholah,WA,Washington
+98588,Tahuya,WA,Washington
+98589,Tenino,WA,Washington
+98590,Tokeland,WA,Washington
+98591,Toledo,WA,Washington
+98592,Union,WA,Washington
+98593,Vader,WA,Washington
+98595,Westport,WA,Washington
+98596,Winlock,WA,Washington
+98597,Yelm,WA,Washington
+98601,Amboy,WA,Washington
+98602,Appleton,WA,Washington
+98603,Ariel,WA,Washington
+98604,Battle Ground,WA,Washington
+98605,Bingen,WA,Washington
+98606,Brush Prairie,WA,Washington
+98607,Camas,WA,Washington
+98610,Carson,WA,Washington
+98611,Castle Rock,WA,Washington
+98612,Cathlamet,WA,Washington
+98613,Centerville,WA,Washington
+98614,Chinook,WA,Washington
+98616,Cougar,WA,Washington
+98617,Dallesport,WA,Washington
+98619,Glenwood,WA,Washington
+98620,Goldendale,WA,Washington
+98621,Grays River,WA,Washington
+98624,Ilwaco,WA,Washington
+98625,Kalama,WA,Washington
+98626,Kelso,WA,Washington
+98628,Klickitat,WA,Washington
+98629,La Center,WA,Washington
+98631,Long Beach,WA,Washington
+98632,Longview,WA,Washington
+98635,Lyle,WA,Washington
+98638,Naselle,WA,Washington
+98639,North Bonneville,WA,Washington
+98640,Ocean Park,WA,Washington
+98641,Oysterville,WA,Washington
+98642,Ridgefield,WA,Washington
+98643,Rosburg,WA,Washington
+98644,Seaview,WA,Washington
+98645,Silverlake,WA,Washington
+98647,Skamokawa,WA,Washington
+98648,Stevenson,WA,Washington
+98649,Toutle,WA,Washington
+98650,Trout Lake,WA,Washington
+98651,Underwood,WA,Washington
+98660,Vancouver,WA,Washington
+98661,Vancouver,WA,Washington
+98662,Vancouver,WA,Washington
+98663,Vancouver,WA,Washington
+98664,Vancouver,WA,Washington
+98665,Vancouver,WA,Washington
+98670,Wahkiacus,WA,Washington
+98671,Washougal,WA,Washington
+98672,White Salmon,WA,Washington
+98673,Wishram,WA,Washington
+98674,Woodland,WA,Washington
+98675,Yacolt,WA,Washington
+98682,Vancouver,WA,Washington
+98683,Vancouver,WA,Washington
+98684,Vancouver,WA,Washington
+98685,Vancouver,WA,Washington
+98686,Vancouver,WA,Washington
+98801,Wenatchee,WA,Washington
+98802,East Wenatchee,WA,Washington
+98811,Ardenvoir,WA,Washington
+98812,Brewster,WA,Washington
+98813,Bridgeport,WA,Washington
+98814,Carlton,WA,Washington
+98815,Cashmere,WA,Washington
+98816,Chelan,WA,Washington
+98817,Chelan Falls,WA,Washington
+98819,Conconully,WA,Washington
+98821,Dryden,WA,Washington
+98822,Entiat,WA,Washington
+98823,Ephrata,WA,Washington
+98824,George,WA,Washington
+98826,Leavenworth,WA,Washington
+98827,Loomis,WA,Washington
+98828,Malaga,WA,Washington
+98829,Malott,WA,Washington
+98830,Mansfield,WA,Washington
+98831,Manson,WA,Washington
+98832,Marlin,WA,Washington
+98833,Mazama,WA,Washington
+98834,Methow,WA,Washington
+98836,Monitor,WA,Washington
+98837,Moses Lake,WA,Washington
+98840,Okanogan,WA,Washington
+98841,Omak,WA,Washington
+98843,Orondo,WA,Washington
+98844,Oroville,WA,Washington
+98845,Palisades,WA,Washington
+98846,Pateros,WA,Washington
+98847,Peshastin,WA,Washington
+98848,Quincy,WA,Washington
+98849,Riverside,WA,Washington
+98850,Rock Island,WA,Washington
+98851,Soap Lake,WA,Washington
+98852,Stehekin,WA,Washington
+98853,Stratford,WA,Washington
+98855,Tonasket,WA,Washington
+98856,Twisp,WA,Washington
+98857,Warden,WA,Washington
+98858,Waterville,WA,Washington
+98859,Wauconda,WA,Washington
+98860,Wilson Creek,WA,Washington
+98862,Winthrop,WA,Washington
+98901,Yakima,WA,Washington
+98902,Yakima,WA,Washington
+98903,Yakima,WA,Washington
+98908,Yakima,WA,Washington
+98921,Buena,WA,Washington
+98922,Cle Elum,WA,Washington
+98923,Cowiche,WA,Washington
+98925,Easton,WA,Washington
+98926,Ellensburg,WA,Washington
+98930,Grandview,WA,Washington
+98932,Granger,WA,Washington
+98933,Harrah,WA,Washington
+98934,Kittitas,WA,Washington
+98935,Mabton,WA,Washington
+98936,Moxee,WA,Washington
+98937,Naches,WA,Washington
+98938,Outlook,WA,Washington
+98939,Parker,WA,Washington
+98940,Ronald,WA,Washington
+98941,Roslyn,WA,Washington
+98942,Selah,WA,Washington
+98943,South Cle Elum,WA,Washington
+98944,Sunnyside,WA,Washington
+98946,Thorp,WA,Washington
+98947,Tieton,WA,Washington
+98948,Toppenish,WA,Washington
+98950,Vantage,WA,Washington
+98951,Wapato,WA,Washington
+98952,White Swan,WA,Washington
+98953,Zillah,WA,Washington
+99001,Airway Heights,WA,Washington
+99003,Chattaroy,WA,Washington
+99004,Cheney,WA,Washington
+99005,Colbert,WA,Washington
+99006,Deer Park,WA,Washington
+99008,Edwall,WA,Washington
+99009,Elk,WA,Washington
+99011,Fairchild Air Force Base,WA,Washington
+99012,Fairfield,WA,Washington
+99013,Ford,WA,Washington
+99016,Greenacres,WA,Washington
+99017,Lamont,WA,Washington
+99018,Latah,WA,Washington
+99019,Liberty Lake,WA,Washington
+99020,Marshall,WA,Washington
+99021,Mead,WA,Washington
+99022,Medical Lake,WA,Washington
+99023,Mica,WA,Washington
+99025,Newman Lake,WA,Washington
+99026,Nine Mile Falls,WA,Washington
+99027,Otis Orchards,WA,Washington
+99029,Reardan,WA,Washington
+99030,Rockford,WA,Washington
+99031,Spangle,WA,Washington
+99032,Sprague,WA,Washington
+99033,Tekoa,WA,Washington
+99034,Tumtum,WA,Washington
+99036,Valleyford,WA,Washington
+99037,Veradale,WA,Washington
+99039,Waverly,WA,Washington
+99040,Wellpinit,WA,Washington
+99101,Addy,WA,Washington
+99102,Albion,WA,Washington
+99103,Almira,WA,Washington
+99105,Benge,WA,Washington
+99109,Chewelah,WA,Washington
+99110,Clayton,WA,Washington
+99111,Colfax,WA,Washington
+99113,Colton,WA,Washington
+99114,Colville,WA,Washington
+99115,Coulee City,WA,Washington
+99116,Coulee Dam,WA,Washington
+99117,Creston,WA,Washington
+99118,Curlew,WA,Washington
+99119,Cusick,WA,Washington
+99121,Danville,WA,Washington
+99122,Davenport,WA,Washington
+99123,Electric City,WA,Washington
+99124,Elmer City,WA,Washington
+99125,Endicott,WA,Washington
+99126,Evans,WA,Washington
+99128,Farmington,WA,Washington
+99129,Fruitland,WA,Washington
+99130,Garfield,WA,Washington
+99131,Gifford,WA,Washington
+99133,Grand Coulee,WA,Washington
+99134,Harrington,WA,Washington
+99135,Hartline,WA,Washington
+99136,Hay,WA,Washington
+99137,Hunters,WA,Washington
+99138,Inchelium,WA,Washington
+99139,Ione,WA,Washington
+99140,Keller,WA,Washington
+99141,Kettle Falls,WA,Washington
+99143,Lacrosse,WA,Washington
+99144,Lamona,WA,Washington
+99146,Laurier,WA,Washington
+99147,Lincoln,WA,Washington
+99148,Loon Lake,WA,Washington
+99149,Malden,WA,Washington
+99150,Malo,WA,Washington
+99151,Marcus,WA,Washington
+99152,Metaline,WA,Washington
+99153,Metaline Falls,WA,Washington
+99154,Mohler,WA,Washington
+99155,Nespelem,WA,Washington
+99156,Newport,WA,Washington
+99157,Northport,WA,Washington
+99158,Oakesdale,WA,Washington
+99159,Odessa,WA,Washington
+99160,Orient,WA,Washington
+99161,Palouse,WA,Washington
+99163,Pullman,WA,Washington
+99164,Pullman,WA,Washington
+99166,Republic,WA,Washington
+99167,Rice,WA,Washington
+99169,Ritzville,WA,Washington
+99170,Rosalia,WA,Washington
+99171,Saint John,WA,Washington
+99173,Springdale,WA,Washington
+99174,Steptoe,WA,Washington
+99176,Thornton,WA,Washington
+99179,Uniontown,WA,Washington
+99180,Usk,WA,Washington
+99181,Valley,WA,Washington
+99185,Wilbur,WA,Washington
+99201,Spokane,WA,Washington
+99202,Spokane,WA,Washington
+99203,Spokane,WA,Washington
+99204,Spokane,WA,Washington
+99205,Spokane,WA,Washington
+99206,Spokane,WA,Washington
+99207,Spokane,WA,Washington
+99208,Spokane,WA,Washington
+99212,Spokane,WA,Washington
+99216,Spokane,WA,Washington
+99217,Spokane,WA,Washington
+99218,Spokane,WA,Washington
+99223,Spokane,WA,Washington
+99224,Spokane,WA,Washington
+99301,Pasco,WA,Washington
+99320,Benton City,WA,Washington
+99321,Beverly,WA,Washington
+99322,Bickleton,WA,Washington
+99323,Burbank,WA,Washington
+99324,College Place,WA,Washington
+99326,Connell,WA,Washington
+99328,Dayton,WA,Washington
+99329,Dixie,WA,Washington
+99330,Eltopia,WA,Washington
+99333,Hooper,WA,Washington
+99335,Kahlotus,WA,Washington
+99336,Kennewick,WA,Washington
+99337,Kennewick,WA,Washington
+99338,Kennewick,WA,Washington
+99341,Lind,WA,Washington
+99343,Mesa,WA,Washington
+99344,Othello,WA,Washington
+99345,Paterson,WA,Washington
+99346,Plymouth,WA,Washington
+99347,Pomeroy,WA,Washington
+99348,Prescott,WA,Washington
+99349,Mattawa,WA,Washington
+99350,Prosser,WA,Washington
+99352,Richland,WA,Washington
+99353,West Richland,WA,Washington
+99354,Richland,WA,Washington
+99356,Roosevelt,WA,Washington
+99357,Royal City,WA,Washington
+99359,Starbuck,WA,Washington
+99360,Touchet,WA,Washington
+99361,Waitsburg,WA,Washington
+99362,Walla Walla,WA,Washington
+99363,Wallula,WA,Washington
+99371,Washtucna,WA,Washington
+99401,Anatone,WA,Washington
+99402,Asotin,WA,Washington
+99403,Clarkston,WA,Washington
+99501,Anchorage,AK,Alaska
+99502,Anchorage,AK,Alaska
+99503,Anchorage,AK,Alaska
+99504,Anchorage,AK,Alaska
+99505,Jber,AK,Alaska
+99506,Jber,AK,Alaska
+99507,Anchorage,AK,Alaska
+99508,Anchorage,AK,Alaska
+99510,Anchorage,AK,Alaska
+99513,Anchorage,AK,Alaska
+99515,Anchorage,AK,Alaska
+99516,Anchorage,AK,Alaska
+99517,Anchorage,AK,Alaska
+99518,Anchorage,AK,Alaska
+99519,Anchorage,AK,Alaska
+99540,Indian,AK,Alaska
+99546,Adak,AK,Alaska
+99547,Atka,AK,Alaska
+99548,Chignik Lake,AK,Alaska
+99549,Port Heiden,AK,Alaska
+99550,Port Lions,AK,Alaska
+99551,Akiachak,AK,Alaska
+99552,Akiak,AK,Alaska
+99553,Akutan,AK,Alaska
+99554,Alakanuk,AK,Alaska
+99555,Aleknagik,AK,Alaska
+99556,Anchor Point,AK,Alaska
+99557,Aniak,AK,Alaska
+99558,Anvik,AK,Alaska
+99559,Bethel,AK,Alaska
+99561,Chefornak,AK,Alaska
+99563,Chevak,AK,Alaska
+99564,Chignik,AK,Alaska
+99565,Chignik Lagoon,AK,Alaska
+99566,Chitina,AK,Alaska
+99567,Chugiak,AK,Alaska
+99568,Clam Gulch,AK,Alaska
+99569,Clarks Point,AK,Alaska
+99571,Cold Bay,AK,Alaska
+99572,Cooper Landing,AK,Alaska
+99573,Copper Center,AK,Alaska
+99574,Cordova,AK,Alaska
+99575,Crooked Creek,AK,Alaska
+99576,Dillingham,AK,Alaska
+99577,Eagle River,AK,Alaska
+99578,Eek,AK,Alaska
+99579,Egegik,AK,Alaska
+99580,Ekwok,AK,Alaska
+99581,Emmonak,AK,Alaska
+99583,False Pass,AK,Alaska
+99585,Marshall,AK,Alaska
+99586,Gakona,AK,Alaska
+99587,Girdwood,AK,Alaska
+99588,Glennallen,AK,Alaska
+99589,Goodnews Bay,AK,Alaska
+99590,Grayling,AK,Alaska
+99591,Saint George Island,AK,Alaska
+99602,Holy Cross,AK,Alaska
+99603,Homer,AK,Alaska
+99604,Hooper Bay,AK,Alaska
+99605,Hope,AK,Alaska
+99606,Iliamna,AK,Alaska
+99607,Kalskag,AK,Alaska
+99609,Kasigluk,AK,Alaska
+99610,Kasilof,AK,Alaska
+99611,Kenai,AK,Alaska
+99612,King Cove,AK,Alaska
+99613,King Salmon,AK,Alaska
+99614,Kipnuk,AK,Alaska
+99615,Kodiak,AK,Alaska
+99620,Kotlik,AK,Alaska
+99621,Kwethluk,AK,Alaska
+99622,Kwigillingok,AK,Alaska
+99624,Larsen Bay,AK,Alaska
+99625,Levelock,AK,Alaska
+99626,Lower Kalskag,AK,Alaska
+99627,McGrath,AK,Alaska
+99628,Manokotak,AK,Alaska
+99630,Mekoryuk,AK,Alaska
+99631,Moose Pass,AK,Alaska
+99632,Mountain Village,AK,Alaska
+99633,Naknek,AK,Alaska
+99634,Napakiak,AK,Alaska
+99636,New Stuyahok,AK,Alaska
+99637,Toksook Bay,AK,Alaska
+99638,Nikolski,AK,Alaska
+99639,Ninilchik,AK,Alaska
+99640,Nondalton,AK,Alaska
+99641,Nunapitchuk,AK,Alaska
+99643,Old Harbor,AK,Alaska
+99644,Ouzinkie,AK,Alaska
+99645,Palmer,AK,Alaska
+99647,Pedro Bay,AK,Alaska
+99648,Perryville,AK,Alaska
+99649,Pilot Point,AK,Alaska
+99650,Pilot Station,AK,Alaska
+99651,Platinum,AK,Alaska
+99652,Big Lake,AK,Alaska
+99653,Port Alsworth,AK,Alaska
+99654,Wasilla,AK,Alaska
+99655,Quinhagak,AK,Alaska
+99656,Red Devil,AK,Alaska
+99657,Russian Mission,AK,Alaska
+99658,Saint Marys,AK,Alaska
+99659,Saint Michael,AK,Alaska
+99660,Saint Paul Island,AK,Alaska
+99661,Sand Point,AK,Alaska
+99662,Scammon Bay,AK,Alaska
+99663,Seldovia,AK,Alaska
+99664,Seward,AK,Alaska
+99665,Shageluk,AK,Alaska
+99666,Nunam Iqua,AK,Alaska
+99667,Skwentna,AK,Alaska
+99668,Sleetmute,AK,Alaska
+99669,Soldotna,AK,Alaska
+99670,South Naknek,AK,Alaska
+99671,Stebbins,AK,Alaska
+99672,Sterling,AK,Alaska
+99674,Sutton,AK,Alaska
+99676,Talkeetna,AK,Alaska
+99677,Tatitlek,AK,Alaska
+99678,Togiak,AK,Alaska
+99679,Tuluksak,AK,Alaska
+99680,Tuntutuliak,AK,Alaska
+99681,Tununak,AK,Alaska
+99682,Tyonek,AK,Alaska
+99683,Trapper Creek,AK,Alaska
+99684,Unalakleet,AK,Alaska
+99685,Unalaska,AK,Alaska
+99686,Valdez,AK,Alaska
+99688,Willow,AK,Alaska
+99689,Yakutat,AK,Alaska
+99690,Nightmute,AK,Alaska
+99691,Nikolai,AK,Alaska
+99692,Dutch Harbor,AK,Alaska
+99693,Whittier,AK,Alaska
+99694,Houston,AK,Alaska
+99695,Anchorage,AK,Alaska
+99701,Fairbanks,AK,Alaska
+99702,Eielson Afb,AK,Alaska
+99703,Fort Wainwright,AK,Alaska
+99704,Clear,AK,Alaska
+99705,North Pole,AK,Alaska
+99706,Fairbanks,AK,Alaska
+99709,Fairbanks,AK,Alaska
+99712,Fairbanks,AK,Alaska
+99714,Salcha,AK,Alaska
+99720,Allakaket,AK,Alaska
+99721,Anaktuvuk Pass,AK,Alaska
+99722,Arctic Village,AK,Alaska
+99723,Barrow,AK,Alaska
+99724,Beaver,AK,Alaska
+99726,Bettles Field,AK,Alaska
+99727,Buckland,AK,Alaska
+99729,Cantwell,AK,Alaska
+99730,Central,AK,Alaska
+99732,Chicken,AK,Alaska
+99733,Circle,AK,Alaska
+99734,Prudhoe Bay,AK,Alaska
+99736,Deering,AK,Alaska
+99737,Delta Junction,AK,Alaska
+99738,Eagle,AK,Alaska
+99739,Elim,AK,Alaska
+99740,Fort Yukon,AK,Alaska
+99741,Galena,AK,Alaska
+99742,Gambell,AK,Alaska
+99743,Healy,AK,Alaska
+99744,Anderson,AK,Alaska
+99745,Hughes,AK,Alaska
+99746,Huslia,AK,Alaska
+99747,Kaktovik,AK,Alaska
+99748,Kaltag,AK,Alaska
+99749,Kiana,AK,Alaska
+99750,Kivalina,AK,Alaska
+99751,Kobuk,AK,Alaska
+99752,Kotzebue,AK,Alaska
+99753,Koyuk,AK,Alaska
+99754,Koyukuk,AK,Alaska
+99755,Denali National Park,AK,Alaska
+99756,Manley Hot Springs,AK,Alaska
+99757,Lake Minchumina,AK,Alaska
+99758,Minto,AK,Alaska
+99759,Point Lay,AK,Alaska
+99760,Nenana,AK,Alaska
+99761,Noatak,AK,Alaska
+99762,Nome,AK,Alaska
+99763,Noorvik,AK,Alaska
+99764,Northway,AK,Alaska
+99765,Nulato,AK,Alaska
+99766,Point Hope,AK,Alaska
+99767,Rampart,AK,Alaska
+99768,Ruby,AK,Alaska
+99769,Savoonga,AK,Alaska
+99770,Selawik,AK,Alaska
+99771,Shaktoolik,AK,Alaska
+99772,Shishmaref,AK,Alaska
+99773,Shungnak,AK,Alaska
+99774,Stevens Village,AK,Alaska
+99775,Fairbanks,AK,Alaska
+99776,Tanacross,AK,Alaska
+99777,Tanana,AK,Alaska
+99778,Teller,AK,Alaska
+99780,Tok,AK,Alaska
+99781,Venetie,AK,Alaska
+99782,Wainwright,AK,Alaska
+99783,Wales,AK,Alaska
+99784,White Mountain,AK,Alaska
+99785,Brevig Mission,AK,Alaska
+99786,Ambler,AK,Alaska
+99788,Chalkyitsik,AK,Alaska
+99789,Nuiqsut,AK,Alaska
+99790,Fairbanks,AK,Alaska
+99791,Atqasuk,AK,Alaska
+99801,Juneau,AK,Alaska
+99820,Angoon,AK,Alaska
+99824,Douglas,AK,Alaska
+99825,Elfin Cove,AK,Alaska
+99826,Gustavus,AK,Alaska
+99827,Haines,AK,Alaska
+99829,Hoonah,AK,Alaska
+99830,Kake,AK,Alaska
+99832,Pelican,AK,Alaska
+99833,Petersburg,AK,Alaska
+99835,Sitka,AK,Alaska
+99836,Port Alexander,AK,Alaska
+99840,Skagway,AK,Alaska
+99841,Tenakee Springs,AK,Alaska
+99901,Ketchikan,AK,Alaska
+99903,Meyers Chuck,AK,Alaska
+99918,Coffman Cove,AK,Alaska
+99919,Thorne Bay,AK,Alaska
+99921,Craig,AK,Alaska
+99922,Hydaburg,AK,Alaska
+99923,Hyder,AK,Alaska
+99925,Klawock,AK,Alaska
+99926,Metlakatla,AK,Alaska
+99927,Point Baker,AK,Alaska
+99929,Wrangell,AK,Alaska
