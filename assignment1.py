@@ -110,7 +110,7 @@ def build_pipeline_final(X, y):
     y_predict = pipeline.predict(X_test)
     training_accuracy = accuracy_score(y_test, y_predict).round(4)
     confusion_matrix = metrics.confusion_matrix(y_test, y_predict)
-    # your code goes here
+    # save final_pipeline as pipeline.pkl
     pickle.dump(pipeline, open('final_pipeline.pkl','wb'))
     # return training accuracy, sklearn confusion matrix (from validation step) and sklearn pipeline object
     return training_accuracy, confusion_matrix, pipeline
