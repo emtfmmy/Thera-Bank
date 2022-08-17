@@ -1,5 +1,4 @@
-### This is only a starter code to run your tests
-### Write/edit/extend this code to fully execute your pipeline and test your assignment1.py
+### This code  aim to fully execute pipeline and test assignment1.py
 
 
 import assignment1
