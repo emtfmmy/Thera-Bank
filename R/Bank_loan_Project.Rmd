@@ -1,0 +1,241 @@
+---
+title: "Bank Loan"
+author: "Yijun Han"
+date: "2021/4/15"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+#Aim: This case is about a bank (Thera Bank) which has a growing customer base. The department wants to build a model that will help them identify the potential customers who have a higher probability of purchasing the loan. This will increase the success ratio while at the same time reduce the cost of the campaign.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(knitr.duplicate.label = "allow")
+```
+
+we will start of by loading libraries.....
+```{r}
+library(tidyverse)
+library(knitr)
+library(ggplot2)
+library(data.table)
+library(readxl)
+library(dplyr)
+library(corrplot)
+library(Hmisc)
+library(psych)
+
+```
+
+
+
+```{r Importing data}
+Bank_data <- read.csv("Bank_Personal_Loan.csv",header=TRUE)
+Zipdata <- read.csv("csvData.csv", header=TRUE)
+Zipcode <- read.csv("zipcode1.CSV",header = TRUE)
+```
+
+
+
+```{r Joining multiple data frames}
+Zipcodes <-
+  full_join(Zipcode,Zipdata, by = "zip")
+
+Bank <- 
+  left_join(Bank_data,Zipcodes,by = c("ZIP.Code" = "zip"))
+```
+
+
+
+```{r removing Missing value}
+Bank <- Bank%>%filter(!is.na(city))
+```
+
+```{r}
+pairs.panels(Bank[c("Income","Age","Education","Experience","Family","CCAvg","Personal.Loan")], stars=TRUE)
+
+```
+
+```{r showing those consumers have loan or not}
+ggplot(Bank,aes(`Personal.Loan`,fill=factor(Personal.Loan)))+geom_bar()+geom_text(stat = 'count',aes(label=..count..),vjust=1, position=position_dodge(0.9))+xlab("People have loan or not") + scale_fill_brewer(palette = "Set1") + scale_fill_discrete(
+                         breaks=c("0", "1"),
+                         labels=c("without loan", "with loan"))
+
+
+```
+
+```{r GLM }
+summary(glm(Personal.Loan ~ Income + Age + Education + Experience + Family + Mortgage +CCAvg+Securities.Account+CD.Account+Online+CreditCard+ pop+ZIP.Code,family=binomial(link='logit'),data=Bank))
+
+# it shows that income, education, family, CD.Account and Credit card have a significant impact on whether customer purchase loan.
+```
+
+```{r showing percentage of Consumers who accepting loan in each age group}
+ggplot(Bank, aes(x=Family,fill=factor(Personal.Loan))) + geom_bar(position="dodge") + ylab("Number of Personal Loan")+ scale_fill_discrete(breaks=c("0", "1"),labels=c("without loan", "with loan"))
+       
+
+
+Bank_Family <-Bank %>%
+ group_by(Family) %>%
+ arrange(desc(Family)) %>%
+ summarise(loan_number=sum(`Personal.Loan`),total_number=n(),percent=loan_number/total_number)
+
+ggplot(Bank_Family, aes(x=Family, y=percent)) + geom_col(fill="pink", col="black",alpha=0.5)+ geom_text(aes(label=round(percent, digits=3),y=.75*(percent), angle=90), size=2.85)
+
+# Most of the families who purchase loans are three or four-member families,while among three-member families, the probability of taking out loans is highest about 13%.
+```
+
+```{r Education_1}
+ggplot(Bank, aes(x=Education,fill=factor(Personal.Loan))) + geom_bar(position="dodge") + ylab("Number of Personal Loan")+geom_text(stat = 'count',aes(label=..count..),vjust=1, position=position_dodge(0.9))+ scale_fill_discrete(breaks=c("0", "1"),labels=c("without loan", "with loan"))       
+```
+```{r Education_2}
+Bank_Edu<- Bank%>%
+  group_by(Education)%>%
+  summarise(loan_number=sum(`Personal.Loan`),total_number=n(),percent=loan_number/total_number)
+
+ggplot(Bank_Edu, aes(x=Education, y=percent)) + geom_col(fill="tan2", col="black",alpha=0.5)+ geom_text(aes(label=round(percent , digits=3),y=.75*(percent), angle=90), size=2.85)
+
+# The number of customers with graduate degree or professional certificate is higher, and clients who have graduate degree are mostly like to purchase loans, the ratio is 13.6%.
+
+```
+
+```{r CD.Account}
+ggplot(Bank, aes(x=CD.Account,fill=factor(Personal.Loan))) + geom_bar(position="dodge",) + ylab("Number of Personal Loan") +geom_text(stat = 'count',aes(label=..count..),vjust=1, position=position_dodge(0.9))+ scale_fill_discrete(breaks=c("0", "1"),labels=c("without loan", "with loan"))
+
+#Half of the customers in the group that customers have deposits account have purchased loans, but there are only 267 customers have deposit account.
+```
+
+```{r CreditCard}
+ggplot(Bank, aes(x=factor(CreditCard),fill=factor(Personal.Loan))) + geom_bar(position="dodge") + xlab("People with CreditCard?") + ylab("Number of Personal Loan") +geom_text(stat = 'count',aes(label=..count..),vjust=1, position=position_dodge(0.9)) + scale_fill_brewer(palette = "Set3")+ scale_x_discrete(breaks=c("0", "1"),labels=c("Without CreditCard", "With CreditCard"))+ 
+scale_fill_discrete(breaks=c("0", "1"),labels=c("without loan", "with loan"))
+#People with credit cards take out fewer loans than people without them. Isn't that a little weird?
+
+#We suspect that older people may be more conservative and less willing to use credit cards, but that doesn't mean they are unable or unwilling to take out loans.
+
+```
+
+```{r showing percentage of Consumers who accepting loan in each age group}
+ggplot(Bank, aes(x=Age,fill=factor(Personal.Loan))) + geom_bar(position="dodge") + ylab("Number of Personal Loan")+ scale_fill_discrete(breaks=c("0", "1"),labels=c("without loan", "with loan"))       
+
+
+Bank_Age1 <-Bank %>%
+ group_by(Age) %>%
+ arrange(desc(Age)) %>%
+ summarise(loan_number=sum(`Personal.Loan`),total_number=n(),percent=loan_number/total_number)
+
+ggplot(Bank_Age1, aes(x=Age, y=percent)) + geom_col(fill="green", col="black",alpha=0.5)+ geom_text(aes(label=round(percent, digits=3),y=.75*(percent), angle=90), size=2.85)
+
+#It shows the young and the old are the ones who borrow the most. We guess young people have more desire to consume or they are more receptive to the concept of credit consumption. Old people have more income to pay loan on time.
+
+Bank_Age2 <-Bank %>%
+  mutate(CCAvg_new=as.numeric(cut(CCAvg, 5))) %>%
+  group_by(Age) %>%
+  arrange(desc(Age)) %>%
+  mutate( total_number=n() ) %>%
+  ungroup() %>%
+  group_by(Age,CCAvg) %>%
+  summarise(CCAvg_new,loan_number=sum(Personal.Loan),total_number,percent=loan_number/total_number)
+
+ggplot(Bank_Age2, aes(x=Age, y=percent,fill=factor(CCAvg_new))) + geom_col(position="dodge")+  scale_fill_brewer(palette = "Blues")
+
+##higher levels of credit card consumption among young and old people represented by the darker colors.
+
+CCAvg5 <- Bank_Age2 %>%
+  ungroup() %>%
+  select(Age,CCAvg,CCAvg_new,loan_number,total_number,percent) %>%
+  filter(CCAvg_new>=4) %>%
+  group_by(Age)
+
+ggplot(CCAvg5,aes(x=Age, y=percent,fill=factor(CCAvg_new))) + geom_col(position="dodge")+ scale_fill_discrete(name=("CCAvg_new"))
+
+#We found that young people and old people were indeed more likely to borrow money. This proves what we've been saying. Among the elderly who accept the concept of credit consumption, the loan ratio is high and they have high incomes to support the loan.
+
+```
+
+```{r consumer who in which revenue level mostly accepted loan}
+ggplot(Bank, aes(x=Income,y=factor(Personal.Loan),fill=factor(Personal.Loan))) + geom_violin() + scale_fill_brewer(palette = "Set5")  
+
+#The loan group is concentrated in the high income group.This also proves our previous point.So banks should look for active consumers among the young and the old and develop them into loan customers. 
+
+Bank_Income <- Bank %>%
+  group_by(Income) %>%
+  arrange(desc(Income)) %>%
+  summarise(loan_number=sum(Personal.Loan), total_number=table(Income), percent=loan_number/total_number,Age)
+ggplot(Bank_Income,aes(x=Income, y=percent,color=Age)) + geom_point() + geom_smooth(aes(x=Income, y=percent,color=Age)) + ylab("percent of loan")
+#This shows the percent of loan people increases as their income increases, starting at about 80 and reaching a maximum at about 180. People with higher incomes are more likely to pay their bills on time. Banks should develop more high-income customers.
+
+
+```
+
+
+```{r correlation}
+df_no_PL<- subset(Bank,select = -c(`Personal.Loan`))
+
+numeric.var <- which(sapply(df_no_PL, is.numeric)) 
+data.numeric <- df_no_PL[, numeric.var]
+cor.numvar <- cor(data.numeric, use="pairwise.complete.obs", method = "pearson")
+
+corrplot.mixed(cor.numvar, tl.col="chocolate2", tl.pos = "lt", tl.cex = 0.6,cl.cex = 0.6, number.cex=0.6,outline= TRUE)
+
+cor.numvar
+
+#According to correlation, we choose personal.loan, Income, CCAvg,Age,experience for visulation. 
+``` 
+
+```{r}
+boxplot(Bank$Experience,xlab="Experience")
+summary(Bank$Experience)
+boxplot(Bank$Age,xlab="Age")
+summary(Bank$Age)
+boxplot(Bank$CCAvg,xlab="CCAvg")
+summary(Bank$CCAvg)
+boxplot(Bank$Income,xlab="Income")
+summary(Bank$Income)
+
+
+```
+
+
+
+```{r GLM}
+summary(lm(Income~Age+Experience+CCAvg, data=Bank))
+```
+
+
+```{r The Customers who in what income range are more likely to spend on credit card by comaparing if they accept personal loan in last activity }
+
+ggplot(data = Bank, aes(x = Income, y = CCAvg))+geom_point()+facet_wrap(~Personal.Loan)+stat_smooth(method="lm")
+
+# It shows consumers who have not accepted loan mostly have lower revenue, most of them have less spending by credit card. while almost those loan consumers are in the upper income bracket, some of them might have a higher expenditure with cretid card but fewer consumer use credit cards according to slope of linear. 
+```
+```{r}
+library(grDevices)
+library(psych)
+```
+```{r}
+summary(lm(Age~Experience, data=Bank))
+```
+
+```{r}
+summary(lm(Income~CCAvg, data=Bank))
+```
+
+```{r}
+ggplot(data = Bank,aes(x=Experience,y=Age))+geom_point()+facet_wrap(~Personal.Loan)+stat_smooth(method="lm")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
